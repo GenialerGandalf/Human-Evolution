@@ -21,11 +21,8 @@
 		"uniqueName": "The Great Warpath",
 		"uniques": [
       "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-      "[Land] units gain the [Woodsman] promotion",
+      "[Land] units gain [+1 Gold]",
       "[+1 Gold] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
-      "[+1 Science]",
-      "[+1 Gold]",
-      "[+1 Faith] per turn"
         ],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Bamboo Camp","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
