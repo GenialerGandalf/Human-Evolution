@@ -1,11 +1,11 @@
 [
 	{
-		"name": "Settler",
+		"name": "Gatherer",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 1,
 		"cost": 106,
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [10] population"],
+		"uniques": [""
+			],
 		"hurryCostModifier": 20
 	},
 	{
@@ -20,14 +20,14 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Warrior",
+		"name": "Hunter",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 100,
+		"movement": 1,
+		"strength": 1,
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
+		"uniques" : ["Excess Food converted to Production when under construction"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
