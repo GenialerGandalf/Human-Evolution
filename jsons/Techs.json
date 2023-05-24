@@ -9,56 +9,22 @@
 				"name": "Gathering",
 				"row": 1,
 				"quote": "'And the Humans figured out how to gather materials' - GG",
-			},
-			{
-				"name": "Agriculture",
-				"row": 10,
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"uniques": ["Starting tech"]
 			}
 		]
 	},
 	{
 		"columnNumber": 1,
-		"era": "Lower Paleolithic",
+		"era": "Ancient era",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Fire",
-				"row": 2,
-				"prerequisites": ["Gathering"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
-			{
-				"name": "Sharp Stones",
+				"name": "Hunting",
 				"row": 1,
 				"prerequisites": ["Gathering"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
-			{
-				"name": "Pottery",
-				"row": 7,
-				"prerequisites": ["Agriculture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
-			},
-			{
-				"name": "Animal Husbandry",
-				"row": 8,
-				"prerequisites": ["Agriculture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
-			},
-			{
-				"name": "Archery",
-				"row": 9,
-				"prerequisites": ["Agriculture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
-			},
-			{
-				"name": "Mining",
-				"row": 10,
-				"prerequisites": ["Agriculture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
@@ -70,14 +36,14 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Hunting",
+				"name": "Stone Tools",
 				"row": 1,
-				"prerequisites": ["Sharp Stones"],
+				"prerequisites": ["Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Calendar",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Pottery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -95,7 +61,7 @@
 			},
 			{
 				"name": "Trapping",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Animal Husbandry"],
 				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
 			},
