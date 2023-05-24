@@ -10,6 +10,11 @@
 				"row": 1,
 				"quote": "'And the Humans figured out how to gather materials' - GG",
 				"uniques": ["Starting tech"]
+			},
+			{
+				"name": "Agriculture",
+				"row": 10,
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
@@ -25,6 +30,30 @@
 				"row": 1,
 				"prerequisites": ["Gathering"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+			{
+				"name": "Pottery",
+				"row": 7,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Animal Husbandry",
+				"row": 8,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Archery",
+				"row": 9,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Mining",
+				"row": 10,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
@@ -43,7 +72,7 @@
 			},
 			{
 				"name": "Calendar",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Pottery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -61,7 +90,7 @@
 			},
 			{
 				"name": "Trapping",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Animal Husbandry"],
 				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
 			},
