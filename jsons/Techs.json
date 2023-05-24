@@ -124,26 +124,26 @@
 			{
 				"name": "Optics",
 				"cost": 85,
-				"row": 1,
+				"row": 7,
 				"prerequisites": ["Sailing"],
 				"uniques": ["Enables embarkation for land units"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
 				"name": "Horseback Riding",
-				"row": 5,
+				"row": 8,
 				"prerequisites": ["Trapping","The Wheel"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
 				"name": "Mathematics",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["The Wheel"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
 				"name": "Construction",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Masonry","The Wheel"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
@@ -158,25 +158,25 @@
 		"techs": [
 			{
 				"name": "Philosophy",
-				"row": 2,
+				"row": 6,
 				"prerequisites": ["Writing","Calendar"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Drama and Poetry",
-				"row": 3,
+				"row": 7,
 				"prerequisites": ["Writing"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
 				"name": "Currency",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Mathematics"],
 				"quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope"
 			},
 			{
 				"name": "Engineering",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Mathematics","Construction"],
 				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
@@ -198,27 +198,27 @@
 		"techs": [
 			{
 				"name": "Theology",
-				"row": 2,
+				"row": 7,
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
 			{
 				"name": "Civil Service",
-				"row": 5,
+				"row": 8,
 				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
 				"name": "Guilds",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Metal Casting",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Engineering","Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
@@ -234,20 +234,20 @@
 			{
 				"name": "Compass",
 				"cost": 375,
-				"row": 1,
+				"row": 5,
 				"prerequisites": ["Optics","Theology"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
 				"name": "Education",
-				"row": 3,
+				"row": 6,
 				"prerequisites": ["Theology","Civil Service"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
 				"name": "Chivalry",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Civil Service","Guilds"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
@@ -281,26 +281,26 @@
 		"techs": [
 			{
 				"name": "Astronomy",
-				"row": 2,
+				"row": 6,
 				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
 				"prerequisites": ["Compass","Education"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
 				"name": "Acoustics",
-				"row": 4,
+				"row": 7,
 				"prerequisites": ["Education"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
 				"name": "Banking",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Chivalry", "Education"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{
 				"name": "Printing Press",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
@@ -321,19 +321,19 @@
 		"techs": [
 			{
 				"name": "Navigation",
-				"row": 2,
+				"row": 6,
 				"prerequisites": ["Astronomy"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
 			{
 				"name": "Architecture",
-				"row": 4,
+				"row": 7,
 				"prerequisites": ["Acoustics","Banking"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
 				"name": "Economics",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Banking","Printing Press"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
@@ -360,25 +360,25 @@
 		"techs": [
 			{
 				"name": "Archaeology",
-				"row": 2,
+				"row": 5,
 				"prerequisites": ["Navigation","Architecture"],
 				"quote": "'Those who cannot remember the past are condemned to repeat it.' - George Santayana"
 			},
 			{
 				"name": "Scientific Theory",
-				"row": 4,
+				"row": 6,
 				"prerequisites": ["Architecture","Economics"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{
 				"name": "Industrialization",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Economics"],
 				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
 			},
 			{
 				"name": "Rifling",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Economics","Metallurgy"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
@@ -405,26 +405,26 @@
 		"techs": [
 			{
 				"name": "Biology",
-				"row": 2,
+				"row": 7,
 				"prerequisites": ["Archaeology","Scientific Theory"],
 				"quote": "'If the brain were so simple we could understand it, we would be so simple we couldn't.' - Lyall Watson"
 			},
 			{
 				"name": "Electricity",
-				"row": 3,
+				"row": 8,
 				"prerequisites": ["Scientific Theory"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
 			{
 				"name": "Steam Power",
-				"row": 6,
+				"row": 9,
 				"uniques": ["[+1] Movement <for [Embarked] units>"],
 				"prerequisites": ["Industrialization","Scientific Theory","Rifling"],
 				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
 			},
 			{
 				"name": "Dynamite",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Fertilizer","Military Science"],
 				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
 			}
@@ -439,31 +439,31 @@
 		"techs": [
 			{
 				"name": "Refrigeration",
-				"row": 2,
+				"row": 6,
 				"prerequisites": ["Biology", "Electricity"], //todo: offshore platform should need this
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
 			},
 			{
 				"name": "Radio",
-				"row": 3,
+				"row": 7,
 				"prerequisites": ["Electricity"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
 			{
 				"name": "Replaceable Parts",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Electricity","Steam Power"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{
 				"name": "Flight",
-				"row": 6,
+				"row": 9,
 				"prerequisites": ["Steam Power"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},
 			{
 				"name": "Railroads",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Steam Power","Dynamite"],
 				"quote": "'The introduction of so powerful an agent as steam to a carriage on wheels will make a great change in the situation of man.' - Thomas Jefferson"
 			}
@@ -478,25 +478,25 @@
 		"techs": [
 			{
 				"name": "Plastics",
-				"row": 3,
+				"row": 7,
 				"prerequisites": ["Radio","Replaceable Parts"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
 				"name": "Electronics",
-				"row": 5,
+				"row": 8,
 				"prerequisites": ["Replaceable Parts", "Flight"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
 			{
 				"name": "Ballistics",
-				"row": 6,
+				"row": 9,
 				"prerequisites": ["Flight"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
 				"name": "Combustion",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Railroads"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
@@ -511,25 +511,25 @@
 		"techs": [
 			{
 				"name": "Pharmaceuticals",
-				"row": 2,
+				"row": 7,
 				"prerequisites": ["Plastics","Refrigeration"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
 			{
 				"name": "Atomic Theory",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Plastics","Electronics"],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{
 				"name": "Radar",
-				"row": 6,
+				"row": 9,
 				"prerequisites": ["Ballistics","Electronics"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
 			},
 			{
 				"name": "Combined Arms",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Ballistics","Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
@@ -544,25 +544,25 @@
 		"techs": [
 			{
 				"name": "Ecology",
-				"row": 2,
+				"row": 7,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{
 				"name": "Nuclear Fission",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Atomic Theory","Radar"],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
 			},
 			{
 				"name": "Rocketry",
-				"row": 6,
+				"row": 9,
 				"prerequisites": ["Radar"],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
 			},
 			{
 				"name": "Computers",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Combined Arms","Radar"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
@@ -577,38 +577,38 @@
 		"techs": [
 			{
 				"name": "Telecommunications",
-				"row": 2,
+				"row": 5,
 				"prerequisites": ["Ecology"],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{
 				"name": "Mobile Tactics",
-				"row": 3,
+				"row": 6,
 				"prerequisites": ["Ecology","Nuclear Fission"],
 				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
 			},
 			{
 				"name": "Advanced Ballistics",
-				"row": 5,
+				"row": 7,
 				"prerequisites": ["Nuclear Fission","Rocketry"],
 				"quote": "'Our scientific power has outrun our spiritual power, we have guided missiles and misguided men.' – Martin Luther King Jr."
 			},
 			{
 				"name": "Satellites",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Rocketry"],
 				"uniques": ["Reveals the entire map"],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 			{
 				"name": "Robotics",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Rocketry","Computers"],
 				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
 			},
 			{
 				"name": "Lasers",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Computers"],
 				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
 			}
@@ -624,31 +624,31 @@
 		"techs": [
 			{
 				"name": "Globalization",
-				"row": 2,
+				"row": 6,
 				"prerequisites": ["Telecommunications"],
 				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
 			},
 			{
 				"name": "Particle Physics",
-				"row": 3,
+				"row": 7,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
 				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
 			},
 			{
 				"name": "Nuclear Fusion",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
 			},
 			{
 				"name": "Nanotechnology",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Robotics"],
 				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
 			},
 			{
 				"name": "Stealth",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Robotics", "Lasers"],
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
@@ -663,7 +663,7 @@
 		"techs": [
 			{
 				"name": "Future Tech",
-				"row": 5,
+				"row": 10,
 				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
