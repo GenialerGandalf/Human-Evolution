@@ -42,6 +42,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Calendar",
+				"row": 4,
+				"prerequisites": ["Hunting"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Sailing",
 				"row": 2,
 				"prerequisites": ["Hunting"],
