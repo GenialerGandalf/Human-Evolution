@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 1,
 		"cost": 106,
-		"uniques": ["Gain [2] [Science] <upon ending a turn in a [Grassland] tile>"],
+		"uniques": ["Gain [2] [Gold] <upon ending a turn in a [Forest] tile>"],
 		"hurryCostModifier": 20
 	},
 	{
