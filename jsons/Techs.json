@@ -38,19 +38,19 @@
 			{
 				"name": "Stone Tools",
 				"row": 1,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Pottery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Calendar",
 				"row": 7,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Pottery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Sailing",
 				"row": 4,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Pottery"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
