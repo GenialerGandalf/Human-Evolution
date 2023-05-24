@@ -6,15 +6,16 @@
 		"buildingCost": 2,
 		"techs": [
 			{
-				"name": "Gathering",
+				"name": "Humanity",
 				"row": 1,
-				"quote": "'And the Humans figured out how to gather materials' - GG",
+				"quote": "'And the Humans appeared on the planet' - GG",
+				"uniques": ["Starting tech"]
 			},
 			{
 				"name": "Agriculture",
+				"cost": 1000000
 				"row": 10,
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
-				"uniques": ["Starting tech"]
 			}
 		]
 	},
@@ -26,9 +27,9 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Hunting",
+				"name": "Gathering",
 				"row": 1,
-				"prerequisites": ["Gathering"],
+				"prerequisites": ["Humanity"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
@@ -65,9 +66,9 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Stone Tools",
+				"name": "Sharp Stones",
 				"row": 1,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
