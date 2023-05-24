@@ -192,7 +192,7 @@
 	},
 	{
 		"columnNumber": 5,
-		"era": "Medieval era",
+		"era": "Mesolithic",
 		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 300,
@@ -227,7 +227,7 @@
 	},
 	{
 		"columnNumber": 6,
-		"era": "Medieval era",
+		"era": "Neolithic",
 		"techCost": 485,
 		"buildingCost": 160,
 		"wonderCost": 400,
