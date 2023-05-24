@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "The dawn era",
+		"era": "Dawn era",
 		"techCost": 2,
 		"buildingCost": 2,
 		"techs": [
@@ -15,7 +15,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Ancient era",
+		"era": "Dawn era",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 185,
@@ -23,7 +23,7 @@
 			{
 				"name": "Pottery",
 				"row": 2,
-				"prerequisites": ["Agriculture"],
+				"prerequisites": ["Hunting and Gathering"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
