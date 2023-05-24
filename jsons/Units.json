@@ -19,7 +19,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Warrior",
+		"name": "Hunter",
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 1,
