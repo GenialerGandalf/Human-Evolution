@@ -22,14 +22,14 @@
 			{
 				"name": "Gathering",
 				"row": 1,
-				"quote": "'And the Humans figured out how to gather materials' - GG",
 				"prerequisites": ["The first Humans"],
+				"quote": "'And the Humans figured out how to gather materials' - GG"
 			},
 			{
 				"name": "Agriculture",
 				"row": 10,
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 				"prerequisites": ["The first Humans"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
