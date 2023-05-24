@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Gatherer",
+		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 1,
 		"cost": 106,
@@ -19,7 +19,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Hunter",
+		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 1,
