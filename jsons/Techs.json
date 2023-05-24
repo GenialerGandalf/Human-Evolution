@@ -2,6 +2,20 @@
 	{
 		"columnNumber": 0,
 		"era": "Ancient era",
+		"techCost": 1,
+		"buildingCost": 1,
+		"techs": [
+			{
+				"name": "The first Humans",
+				"row": 1,
+				"quote": "'And the Humans figured out how to gather materials' - GG",
+				"unique": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
 		"techCost": 2,
 		"buildingCost": 2,
 		"techs": [
