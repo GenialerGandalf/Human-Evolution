@@ -6,35 +6,19 @@
 		"buildingCost": 2,
 		"techs": [
 			{
-				"name": "The first Humans",
-				"row": 1,
-				"quote": "'And the Humans figured out how to gather materials' - GG",
-				"unique": ["Starting tech"]
-			}
-		]
-	},
-	{
-		"columnNumber": 1,
-		"era": "Ancient era",
-		"techCost": 2,
-		"buildingCost": 2,
-		"techs": [
-			{
 				"name": "Gathering",
 				"row": 1,
-				"prerequisites": ["The first Humans"],
-				"quote": "'And the Humans figured out how to gather materials' - GG"
+				"quote": "'And the Humans figured out how to gather materials' - GG",
 			},
 			{
 				"name": "Agriculture",
 				"row": 10,
-				"prerequisites": ["The first Humans"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
 	{
-		"columnNumber": 2,
+		"columnNumber": 1,
 		"era": "Lower Paleolithic",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -79,7 +63,7 @@
 		]
 	},
 	{
-		"columnNumber": 3,
+		"columnNumber": 2,
 		"era": "Lower Paleolithic",
 		"techCost": 55,
 		"buildingCost": 75,
@@ -136,8 +120,8 @@
 		]
 	},
 	{
-		"columnNumber": 4,
-		"era": "Middle Paleolithic",
+		"columnNumber": 3,
+		"era": "Classical era",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -171,8 +155,8 @@
 		]
 	},
 	{
-		"columnNumber": 5,
-		"era": "Upper Paleolithic",
+		"columnNumber": 4,
+		"era": "Classical era",
 		"techCost": 175,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -211,7 +195,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 5,
 		"era": "Medieval era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -246,7 +230,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -294,7 +278,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 7,
 		"era": "Renaissance era",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -334,7 +318,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -373,7 +357,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 9,
 		"era": "Industrial era",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -418,7 +402,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 10,
 		"era": "Industrial era",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -452,7 +436,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 11,
 		"era": "Modern era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -491,7 +475,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 12,
 		"era": "Modern era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -524,7 +508,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 13,
 		"era": "Atomic era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -557,7 +541,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -590,7 +574,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -637,7 +621,7 @@
 	},
 
 	{
-		"columnNumber": 17,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -676,7 +660,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
