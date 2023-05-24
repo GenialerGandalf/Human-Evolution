@@ -14,6 +14,7 @@
 				"name": "Agriculture",
 				"row": 10,
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"uniques": ["Starting tech"]
 			}
 		]
 	},
