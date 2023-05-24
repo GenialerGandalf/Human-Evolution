@@ -117,7 +117,7 @@
 	},
 	{
 		"columnNumber": 3,
-		"era": "Classical era",
+		"era": "Middle Paleolithic",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -152,7 +152,7 @@
 	},
 	{
 		"columnNumber": 4,
-		"era": "Classical era",
+		"era": "Upper Paleolithic",
 		"techCost": 175,
 		"buildingCost": 100,
 		"wonderCost": 250,
