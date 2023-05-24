@@ -4,8 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 1,
 		"cost": 106,
-		"uniques": [""
-			],
+		"uniques": ["Gain [2] [Gold] <upon ending a turn in a [Plains] tile>"],
 		"hurryCostModifier": 20
 	},
 	{
