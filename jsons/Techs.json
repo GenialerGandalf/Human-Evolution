@@ -1,13 +1,13 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Dawn era",
+		"era": "Ancient era",
 		"techCost": 2,
 		"buildingCost": 2,
 		"techs": [
 			{
 				"name": "Hunting and gathering",
-				"row": 6,
+				"row": 12,
 				"quote": "'And the Humans figured out how to gather materials' - GG",
 				"uniques": ["Starting tech"]
 			}
