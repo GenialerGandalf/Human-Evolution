@@ -38,7 +38,7 @@
 			{
 				"name": "Stone Tools",
 				"row": 1,
-				"prerequisites": ["Pottery"],
+				"prerequisites": ["Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -56,7 +56,7 @@
 			{
 				"name": "Writing",
 				"row": 5,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Pottery"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
