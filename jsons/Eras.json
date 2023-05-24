@@ -61,6 +61,34 @@
     {
         "name": "Mesolithic",
         "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 255, 0]
+    },
+    {
+        "name": "Neolithic",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 255, 0]
+    },
+    {
+        "name": "Classical era",
+        "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 2,
@@ -75,7 +103,7 @@
         "iconRGB": [233, 31, 99]
     },
     {
-        "name": "Neolithic",
+        "name": "Medieval era",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
