@@ -59,7 +59,7 @@
         "iconRGB": [255, 255, 0]
     },
     {
-        "name": "Classical era",
+        "name": "Mesolithic",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
@@ -75,7 +75,7 @@
         "iconRGB": [233, 31, 99]
     },
     {
-        "name": "Medieval era",
+        "name": "Neolithic",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
