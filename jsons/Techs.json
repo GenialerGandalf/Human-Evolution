@@ -9,7 +9,6 @@
 				"name": "Gathering",
 				"row": 1,
 				"quote": "'And the Humans figured out how to gather materials' - GG",
-				"uniques": ["Starting tech"]
 			},
 			{
 				"name": "Agriculture",
@@ -20,13 +19,19 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Ancient era",
+		"era": "Lower Paleolithic",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Hunting",
+				"name": "Fire",
+				"row": 2,
+				"prerequisites": ["Gathering"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+			{
+				"name": "Sharp Stones",
 				"row": 1,
 				"prerequisites": ["Gathering"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
@@ -65,9 +70,9 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Stone Tools",
+				"name": "Hunting",
 				"row": 1,
-				"prerequisites": ["Hunting"],
+				"prerequisites": ["Sharp Stones"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
