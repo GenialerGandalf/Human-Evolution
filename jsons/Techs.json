@@ -30,19 +30,19 @@
 	},
 	{
 		"columnNumber": 2,
-		"era": "Ancient era",
+		"era": "Lower Paleolithic",
 		"techCost": 55,
 		"buildingCost": 75,
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Sailing",
+				"name": "Stone Tools",
 				"row": 1,
 				"prerequisites": ["Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Calendar",
+				"name": "Sailing",
 				"row": 2,
 				"prerequisites": ["Hunting"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
