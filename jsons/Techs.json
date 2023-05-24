@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Dawn era",
+		"era": "Ancient era",
 		"techCost": 2,
 		"buildingCost": 2,
 		"techs": [
@@ -15,7 +15,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Dawn era",
+		"era": "Ancient era",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 185,
