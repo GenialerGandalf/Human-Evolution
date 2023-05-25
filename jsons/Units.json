@@ -43,7 +43,7 @@
 		"name": "Brute",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
-		"replaces": "Warrior",
+		"replaces": "Hunter",
 		"movement": 2,
 		"strength": 100,
 		"cost": 20,
