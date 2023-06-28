@@ -207,6 +207,20 @@
 		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Wood",
+		"resourceType": "Strategic",
+		"revealedBy": "Humanity",
+		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
+		"production": 1,
+		"uniques": ["Generated with weight [0] <in [Featureless] [Tundra] tiles>",
+					"Generated with weight [0] <in [Featureless] [Snow] tiles>",
+					"Generated with weight [0] <in [Hill] tiles>",
+					"Minor deposits generated with weight [0] <in [Jungle] tiles>",
+					"Minor deposits generated with weight [0] <in [Featureless] [Desert] tiles>"],
+		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+	},
 	
 	// Luxury resources
 	{
