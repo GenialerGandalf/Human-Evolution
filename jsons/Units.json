@@ -18,7 +18,7 @@
 			//"Gain [3] [Science] <upon ending a turn in a [Fresh water] tile><upon ending a turn in a [Plains] tile>",
 			//"Gain [3] [Science] <upon ending a turn in a [Fresh water] tile><upon ending a turn in a [Grassland] tile>",
 			"Instantly provides [1] [Wood] <upon ending a turn in a [Forest] tile><after discovering [Gathering]>",
-			"Instantly provides [1] [Stone] <upon ending a turn in a [Hill] tile><after discovering [Gathering]>"
+			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]>"
 		],
 		"hurryCostModifier": 20
 	},
