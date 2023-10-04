@@ -212,8 +212,6 @@
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
-		//"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
-		//"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
 	},
 	
 	// Luxury resources
@@ -267,7 +265,7 @@
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
-		"name": "Gold Ore", // Not called "Gold" in order to not conflict with siege type units for translations
+		"name": "Gold Ore", // Not called "Gold" in order to not conflict with siege type units for translations,
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle"],
 		"gold": 2,
