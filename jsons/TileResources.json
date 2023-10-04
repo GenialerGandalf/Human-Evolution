@@ -213,6 +213,12 @@
 		"production": 1,
 		"uniques": ["Stockpiled"],
 	},
+	{
+		"name": "Pebble",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
 	
 	// Luxury resources
 	{
