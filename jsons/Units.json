@@ -25,11 +25,10 @@
 	{
 		"name": "Scout",
 		"unitType": "Scout",
-		"uniqueTo": "Upside-Down",
 		"movement": 2,
 		"strength": 1,
 		"cost": 25,
-		"uniques": ["Founds a new city"]
+		"uniques": ["Unavailable","Founds a new city"]
 		"obsoleteTech": "Scientific Theory",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
@@ -41,7 +40,7 @@
 		"strength": 1,
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["Excess Food converted to Production when under construction"],
+		//"uniques" : ["Excess Food converted to Production when under construction"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -52,8 +51,8 @@
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
 		"replaces": "Hunter",
-		"movement": 2,
-		"strength": 100,
+		"movement": 1,
+		"strength": 1,
 		"cost": 20,
 		"obsoleteTech": "Metal Casting",
 		"attackSound": "nonmetalhit"
