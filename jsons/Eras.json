@@ -1,7 +1,4 @@
 [
-    // Source: the fandom, so take these with a grain of salt
-    // I also did some testing in the official version, but by far not all
-   
     {
         "name": "Ancient era",
         "researchAgreementCost": 150,
@@ -220,9 +217,7 @@
             "Every major Civilization gains a spy once a civilization enters this era"
         ]
     },
-    { // Technically, this Era doesn't exist in the original game.
-      // But as it is _really_ usefull to have for testing, I'd like to keep it.
-      // The stats are just copy-pasted from the information era.
+    {
         "name": "Future era",
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
