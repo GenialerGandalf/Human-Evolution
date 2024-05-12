@@ -1,4 +1,8 @@
 [
+  /*
+    SHOULD YOU STUMBLE ACROSS THIS FILE PLEASE IGNORE IT AND DON'T TOUCH ANYTHING,
+  - Sincerely, Bamboolord
+*/
   {
     "name": "Route",
     "description": "Build a road to connect your capital to our city.",
@@ -178,11 +182,4 @@
           "Religious": 3
       }
   }
-  /* BNW */
-  /*
-  {
-    "name": "Trade Route",
-    "description": ""
-  }
-  */
 ]
