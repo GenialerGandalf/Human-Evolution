@@ -15,6 +15,7 @@
 				"name": "Agriculture",
 				"cost": 1000000
 				"row": 10,
+				"uniques": ["Unavailable"]
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
@@ -66,14 +67,14 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Fint",
+				"name": "Flint",
 				"row": 1,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 						{
 				"name": "Hunting",
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
