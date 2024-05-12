@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "Scout",
-		"unitType": "Scout",
+		"unitType": "Nomad",
 		"movement": 2,
 		"strength": 1,
 		"cost": 25,
@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Hunter",
-		"unitType": "Sword",
+		"unitType": "Nomad",
 		"movement": 1,
 		"strength": 1,
 		"cost": 50,
@@ -48,7 +48,7 @@
 	},
 	{
 		"name": "Brute",
-		"unitType": "Sword",
+		"unitType": "Nomad",
 		"uniqueTo": "Barbarians",
 		"replaces": "Hunter",
 		"movement": 1,
