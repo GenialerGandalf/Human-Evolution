@@ -409,7 +409,7 @@
 		"era": "Industrial era",
 		"techCost": 2350,
 		"buildingCost": 360,
-		"wonderCost": 900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
+		"wonderCost": 900,
 		"techs": [
 			{
 				"name": "Biology",
@@ -448,7 +448,7 @@
 			{
 				"name": "Refrigeration",
 				"row": 6,
-				"prerequisites": ["Biology", "Electricity"], //todo: offshore platform should need this
+				"prerequisites": ["Biology", "Electricity"],
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
 			},
 			{
