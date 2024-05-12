@@ -6,16 +6,9 @@
         "color": "#cf8ff7"
     },
     {
-        "name": "squatters willing to work for you",
-        "notification": "A [Worker] has joined us!",
-        "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
-    },
-    {
         "name": "squatters wishing to settle under your rule",
-        "notification": "A [Settler] has joined us!",
-        "uniques": ["Free [Settler] found in the ruins"],
-        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
+        "notification": "A [Scout] has joined us!",
+        "uniques": ["Free [Scout] found in the ruins"],
     },
     {
         "name": "your exploring unit receives training",
@@ -25,12 +18,12 @@
     {
         "name": "survivors (adds population to a city)",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+        "uniques": ["[+1] population in a random city"],
 		"color": "#81c784"
     },
     {
         "name": "a stash of gold",
-        "notification": "", // trigger notification only
+        "notification": "",
         "uniques": ["Gain [50]-[100] [Gold]"],
         "color": "#ffeb7f"
     },
@@ -43,7 +36,8 @@
     {
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["This Unit upgrades for free including special upgrades"]
+        "uniques": ["This Unit upgrades for free including special upgrades"],
+	"excludedDifficulties": ["Prince"]
     },
     {
         "name": "reveal nearby Barbarian camps",
@@ -59,13 +53,15 @@
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
         "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>", "Only available <after [20] turns>"],
-		"color": "#CDDDF4"
+		"color": "#CDDDF4",
+	"excludedDifficulties": ["Prince"]
     },
     {
         "name": "an ancient prophecy",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
         "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet",
             "Only available <after founding a Pantheon>", "Only available <after [20] turns>"],
-		"color": "#CDDDF4"
+		"color": "#CDDDF4",
+	"excludedDifficulties": ["Prince"]
     }
 ]
