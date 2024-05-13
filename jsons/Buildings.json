@@ -10,4 +10,12 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
+	{
+		"name": "Apollo Program",
+		"cost": 750,
+		"isNationalWonder": true,
+		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+		"requiredTech": "Rocketry"
+	},
 ]
