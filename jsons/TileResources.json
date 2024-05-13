@@ -1,6 +1,24 @@
 [
 	// Bonus resources
 	{
+		"name": "Wood",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [1000000] tiles <in [{Featureless} {Grassland}] tiles>"]
+	},
+	{
+		"name": "Pebble",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [1000000] tiles <in [{Featureless} {Grassland}] tiles>"]
+	},
+	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
