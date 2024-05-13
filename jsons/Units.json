@@ -40,8 +40,8 @@
 		"strength": 1,
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <with [50]% chance>",
-				"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <with [50]% chance>"],
+		"uniques" : ["Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <after discovering [Throwing]> <with [50]% chance>",
+				"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <after discovering [Throwing]> <with [50]% chance>"], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
