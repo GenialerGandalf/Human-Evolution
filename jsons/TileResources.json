@@ -249,6 +249,12 @@
 		"production": 1,
 		"uniques": ["Stockpiled"],
 	},
+	{
+		"name": "Leather",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
 	// Luxury resources
 	{
 		"name": "Furs",
