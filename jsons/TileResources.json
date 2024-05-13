@@ -244,7 +244,7 @@
 		"uniques": ["Stockpiled"],
 	},
 	{
-		"name": "Rock",
+		"name": "Pebble",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
