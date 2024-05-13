@@ -72,8 +72,8 @@
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
-						{
-				"name": "Hunting",
+			{
+				"name": "Throwing",
 				"row": 2,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
