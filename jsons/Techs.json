@@ -62,7 +62,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Lower Paleolithic",
-		"techCost": 55,
+		"techCost": 10,
 		"buildingCost": 75,
 		"wonderCost": 185,
 		"techs": [
