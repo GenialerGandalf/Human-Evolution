@@ -227,7 +227,7 @@
 					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
 	},
 	{
-		"name": "Wheat",
+		"name": "",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"],
 		"food": 1,
