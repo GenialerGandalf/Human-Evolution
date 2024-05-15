@@ -48,7 +48,7 @@
 			"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]>",
 			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]>",
 			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles>",
-			"Instantly provides [2] [Water] <upon turn end> <in tiles ajecent to [Fresh Water]>",
+			"Instantly provides [2] [Water] <upon turn end> <in [River] tiles>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>"	
