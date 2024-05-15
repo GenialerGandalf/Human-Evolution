@@ -18,7 +18,6 @@
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
-			"Instantly consumes [2] [Water] <when above [2] [Water]>",
 			"No Sight <when below [0] [Water]>",
 			"Instantly provides [1] [Stick] <upon ending a turn in a [Forest] tile><after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]> <when above [-1] [Water]>"
@@ -50,7 +49,6 @@
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
-			"Instantly consumes [2] [Water] <when above [2] [Water]>",
 			"No Sight <when below [0] [Water]>",
 			"Cannot attack <when below [0] [Water]>"
 			], // <with [Pebble]>
