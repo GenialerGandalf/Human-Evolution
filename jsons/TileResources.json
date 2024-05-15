@@ -29,7 +29,7 @@
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Forest", "Jungle"],
 		"gold": 1,
-		"improvement": "Aviary",
+		"improvement": "Pasture",
 		"improvementStats": {"gold": 1},
 	},
 	{
