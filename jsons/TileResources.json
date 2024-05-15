@@ -1,14 +1,6 @@
 [
 	// Bonus resources
 	{
-		"name": "Capybara",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
-		"food": 1,
-		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
-	},
-	{
 		"name": "Pigs",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland", "Plains"],
@@ -388,7 +380,19 @@
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 	{
-		"name": "Wood",
+		"name": "Water",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Food",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Stick",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
