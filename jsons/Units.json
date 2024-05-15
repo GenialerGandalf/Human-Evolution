@@ -12,13 +12,13 @@
 		"movement": 1,
 		"cost": 106,
 		"uniques": [
-			"Gain [1] [Science] <upon ending a turn in a [Plains] tile> <when above [-1] [Water]>",
-			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile> <when above [-1] [Water]>",
 			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
 			"No Sight <when below [0] [Water]>",
+			"Gain [1] [Science] <upon ending a turn in a [Plains] tile> <when above [-1] [Water]>",
+			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile> <when above [-1] [Water]>",
 			"Instantly provides [1] [Stick] <upon ending a turn in a [Forest] tile><after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]> <when above [-1] [Water]>"
 		],
@@ -43,14 +43,14 @@
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"uniques" : [
-			"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
 			"No Sight <when below [0] [Water]>",
-			"Cannot attack <when below [0] [Water]>"
+			"Cannot attack <when below [0] [Water]>",
+	        	"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
