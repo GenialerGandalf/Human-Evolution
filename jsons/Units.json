@@ -14,7 +14,7 @@
 		"uniques": [
 			"Gain [1] [Science] <upon ending a turn in a [Plains] tile>",
 			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile>",
-			"Instantly provides [2] [Water] <upon turn end> <in [Fresh water] tiles>",
+			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles>",
 			"Instantly provides [2] [Water] <upon turn end> <in [River] tiles>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
