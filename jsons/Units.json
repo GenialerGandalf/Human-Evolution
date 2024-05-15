@@ -14,10 +14,13 @@
 		"uniques": [
 			"Gain [1] [Science] <upon ending a turn in a [Plains] tile>",
 			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile>",
-			"Gain [3] [Science] <upon ending a turn in a [Fresh water] tile>",
+			"Instantly provides [2] [Water] <upon ending a turn in a [Fresh water] tile>",
+			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
+			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
+			"Instantly consumes [1] [Water] <upon turn end>",
 			//"Gain [3] [Science] <upon ending a turn in a [Fresh water] tile><upon ending a turn in a [Plains] tile>",
 			//"Gain [3] [Science] <upon ending a turn in a [Fresh water] tile><upon ending a turn in a [Grassland] tile>",
-			"Instantly provides [1] [Wood] <upon ending a turn in a [Forest] tile><after discovering [Gathering]>",
+			"Instantly provides [1] [Stick] <upon ending a turn in a [Forest] tile><after discovering [Gathering]>",
 			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]>"
 		],
 		"hurryCostModifier": 20
@@ -40,8 +43,14 @@
 		"strength": 1,
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <with [75]% chance>",
-				"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]>"], // <with [Pebble]>
+		"uniques" : [
+			"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]>",
+			"Instantly provides [2] [Water] <upon ending a turn in a [Fresh water] tile>",
+			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
+			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
+			"Instantly consumes [1] [Water] <upon turn end>"	
+			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
