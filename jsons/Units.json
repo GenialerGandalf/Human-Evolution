@@ -12,7 +12,8 @@
 		"movement": 1,
 		"cost": 106,
 		"uniques": [
-			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [3] [Water]>",
+			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [3] [Water]>",
+			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [5] [Water]>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
@@ -43,7 +44,8 @@
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"uniques" : [
-			"Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [3] [Water]>",
+			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [3] [Water]>",
+			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [5] [Water]>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
