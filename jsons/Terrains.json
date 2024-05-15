@@ -224,6 +224,16 @@
 		]
 	},
 	{
+		"name": "Creek",
+		"type": "TerrainFeature",
+		"food": 1,
+		"movementCost": 3,
+		"unbuildable": true,
+		"occursOn": ["Grassland", "Hills"],
+		"uniques": ["Fresh Water","Rare feature",
+					"[+2] to Fertility for Map Generation"],
+	},
+	{
 		"name": "Marsh",
 		"type": "TerrainFeature",
 		"food": -1,
