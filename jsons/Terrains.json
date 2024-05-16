@@ -230,8 +230,8 @@
 		"movementCost": 3,
 		"unbuildable": true,
 		"occursOn": ["Mountain", "Hill"],
-		"uniques": ["Fresh water","Rare feature","Rough terrain",
-					"[+2] to Fertility for Map Generation"],
+		"uniques": ["Fresh water","Rough terrain",
+					"[+2] to Fertility for Map Generation"]
 	},
 	{
 		"name": "Marsh",
