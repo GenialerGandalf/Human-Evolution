@@ -229,7 +229,7 @@
 		"food": 1,
 		"movementCost": 3,
 		"unbuildable": true,
-		"occursOn": ["Grassland", "Hill", "Mountain"],
+		"occursOn": ["Mountain", "Hill"],
 		"uniques": ["Fresh water","Rare feature","Rough terrain",
 					"[+2] to Fertility for Map Generation"],
 	},
