@@ -230,7 +230,7 @@
 		"movementCost": 3,
 		"unbuildable": true,
 		"occursOn": ["Grassland", "Plains", "Hill"],
-		"uniques": ["Fresh water","Rough terrain","Rare feature",
+		"uniques": ["Fresh water","Rare feature",
 					"[+2] to Fertility for Map Generation"]
 	},
 	{
