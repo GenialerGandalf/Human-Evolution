@@ -1,4 +1,7 @@
 {
     "isBaseRuleset": true,
     "uniques": ["Disable religion"],
+    "constants":{
+        "maxXPfromBarbarians":60,
+    },
 }
