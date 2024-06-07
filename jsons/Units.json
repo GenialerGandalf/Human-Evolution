@@ -36,7 +36,14 @@
 			"Instantly provides [2] [Food] <upon ending a turn in a [Truffels] tile> <after discovering [Domestication]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Carrots] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Potatos] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
+			"Instantly provides [1] [Food] <upon ending a turn in a [Plains] tile> <after discovering [Gathering]> <with [25]% chance>",
+			"Instantly provides [1] [Food] <upon ending a turn in a [Grassland] tile> <after discovering [Gathering]> <with [50]% chance>",
+			"Instantly provides [1] [Food] <upon ending a turn in a [Forest] tile> <after discovering [Gathering]> <with [25]% chance>",
+			"Instantly provides [1] [Food] <upon ending a turn in a [Jungle] tile> <after discovering [Gathering]> <with [50]% chance>",
 			"Instantly consumes [1] [Food] <upon turn end>",
+			"Instantly consumes [1] [Food] <upon ending a turn in a [Forest] tile>",
+			"Instantly consumes [2] [Food] <upon ending a turn in a [Jungle] tile>",
+			"Instantly consumes [3] [Food] <upon ending a turn in a [Hill] tile>",
 			"No Sight <when below [0] [Water]>",
 			"Gain [1] [Science] <upon ending a turn in a [Plains] tile> <when above [-1] [Water]>",
 			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile> <when above [-1] [Water]>",
@@ -71,7 +78,7 @@
 			"Instantly consumes [1] [Water] <upon turn end>",
 			"No Sight <when below [0] [Water]>",
 			"Cannot attack <when below [0] [Water]>",
-	        	"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with[50]% chance>",
+	        	"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
 			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
