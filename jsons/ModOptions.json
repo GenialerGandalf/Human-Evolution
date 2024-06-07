@@ -3,5 +3,7 @@
     "uniques": ["Disable religion"],
     "constants":{
         "maxXPfromBarbarians":60,
+        "minRiverLengh":2,
+        "riverCountMultiplier":0.02
     },
 }
