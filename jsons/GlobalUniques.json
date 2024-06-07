@@ -8,6 +8,7 @@
         "Cannot build [Scout] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-20] Happiness>",
         "[-1] Sight <for [Embarked] units>",
-        "provides [30] [Food]"
+        "Instantly provides [30] [Food]",
+        "Instantly provides [5] [Water]"
     ]
 }
