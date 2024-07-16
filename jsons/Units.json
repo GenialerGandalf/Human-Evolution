@@ -7,7 +7,7 @@
 		"cost": 70
 	},
 	{
-		"name": "Gatherer",
+		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 1,
 		"cost": 106,
