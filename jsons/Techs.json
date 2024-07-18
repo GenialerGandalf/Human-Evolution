@@ -124,7 +124,7 @@
 	},
 	{
 		"columnNumber": 3,
-		"era": "Middle Paleolithic",
+		"era": "Lower Paleolithic - Oldovan",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -159,7 +159,7 @@
 	},
 	{
 		"columnNumber": 4,
-		"era": "Upper Paleolithic",
+		"era": "Lower Paleolithic - Oldovan Archeulean",
 		"techCost": 175,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -199,7 +199,7 @@
 	},
 	{
 		"columnNumber": 5,
-		"era": "Mesolithic",
+		"era": "Middle Paleolithic - ???",
 		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 300,
