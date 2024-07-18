@@ -125,7 +125,9 @@
 			"Instantly consumes [1] [Food] <upon turn end> <when above [61] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [60] [Food]>",
 	        	"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly provides [1] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
