@@ -124,7 +124,7 @@
 			"Instantly consumes [1] [Food] <upon turn end> <when above [62] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [61] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [60] [Food]>",
-			"Can upgrade to [Stonethower] <after discovering [Throwing]>"
+			"Can upgrade to [Stonethrower] <after discovering [Throwing]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -132,7 +132,7 @@
 		]
 	},
 		{
-		"name": "Stonethower",
+		"name": "Stonethrower",
 		"unitType": "Nomad",
 		"movement": 1,
 		"strength": 1,
