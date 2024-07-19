@@ -73,12 +73,6 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Throwing",
-				"row": 2,
-				"prerequisites": ["Gathering"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
-			},
-			{
 				"name": "Calendar",
 				"row": 6,
 				"prerequisites": ["Pottery"],
@@ -125,7 +119,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Lower Paleolithic - Oldovan",
-		"techCost": 105,
+		"techCost": 20,
 		"buildingCost": 100,
 		"wonderCost": 250,
 		"techs": [
@@ -142,6 +136,11 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Butchering",
+				"row": 3,
+				"prerequisites": ["Mode 0 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
 			{
 				"name": "Optics",
 				"cost": 85,
