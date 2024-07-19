@@ -67,7 +67,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Flint",
+				"name": "Mode 0 Stone Tools",
 				"row": 1,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
@@ -130,6 +130,12 @@
 		"wonderCost": 250,
 		"techs": [
 			{
+				"name": "Mode 1 Stone Tools",
+				"row": 1,
+				"prerequisites": ["Mode 0 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Optics",
 				"cost": 85,
 				"row": 7,
@@ -164,6 +170,12 @@
 		"buildingCost": 100,
 		"wonderCost": 250,
 		"techs": [
+			{
+				"name": "Mode 2 Stone Tools",
+				"row": 1,
+				"prerequisites": ["Mode 1 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
 			{
 				"name": "Philosophy",
 				"row": 6,
