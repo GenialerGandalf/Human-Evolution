@@ -136,6 +136,13 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Throwing",
+				"row": 2,
+				"prerequisites": ["Mode 0 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+			{
 				"name": "Optics",
 				"cost": 85,
 				"row": 7,
