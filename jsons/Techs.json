@@ -73,6 +73,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Hunting",
+				"row": 2,
+				"prerequisites": ["Gathering"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Calendar",
 				"row": 6,
 				"prerequisites": ["Pottery"],
@@ -138,7 +144,7 @@
 			{
 				"name": "Butchering",
 				"row": 3,
-				"prerequisites": ["Mode 0 Stone Tools"],
+				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
