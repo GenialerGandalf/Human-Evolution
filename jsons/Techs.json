@@ -213,33 +213,39 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Philosophy",
+				"name": "Wooden Spears",
 				"row": 6,
+				"prerequisites": ["Mode 1 Stone Tools","Throwing"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			},
+						{
+				"name": "Philosophy",
+				"row": 7,
 				"prerequisites": ["Writing","Calendar"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Drama and Poetry",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Writing"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
 				"name": "Currency",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Mathematics"],
 				"quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope"
 			},
 			{
 				"name": "Engineering",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Mathematics","Construction"],
 				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
 			},
 			{
 				"name": "Iron Working",
-				"row": 10,
+				"row": 11,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
 			}
@@ -252,6 +258,36 @@
 		"buildingCost": 120,
 		"wonderCost": 300,
 		"techs": [
+			{
+				"name": "Prepared Core Stone Tools",
+				"row": 1,
+				"prerequisites": ["Mode 2 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Religion",
+				"row": 3,
+				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Early Fire"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Inter-group Trade",
+				"row": 2,
+				"prerequisites": ["Mode 2 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Meat Preservation",
+				"row": 4,
+				"prerequisites": ["Early Fire", "Butchering"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Stone Spears",
+				"row": 5,
+				"prerequisites": ["Mode 2 Stone Tools", "Wooden Spears"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
 			{
 				"name": "Theology",
 				"row": 7,
