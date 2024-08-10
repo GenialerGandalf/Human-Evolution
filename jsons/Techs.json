@@ -195,7 +195,7 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Early Fire",
+				"name": "Fire",
 				"row": 4,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
@@ -267,7 +267,7 @@
 			{
 				"name": "Religion",
 				"row": 4,
-				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Early Fire"],
+				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Fire"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -291,7 +291,7 @@
 			{
 				"name": "Cooking",
 				"row": 6,
-				"prerequisites": ["Early Fire"],
+				"prerequisites": ["Fire"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
