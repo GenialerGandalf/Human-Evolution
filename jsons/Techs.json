@@ -291,7 +291,7 @@
 			{
 				"name": "Cooking",
 				"row": 6,
-				"prerequisites": ["Fire"],
+				"prerequisites": ["Fire", "Wooden Spears"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
