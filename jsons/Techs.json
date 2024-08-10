@@ -189,6 +189,30 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Language",
+				"row": 2,
+				"prerequisites": ["Mode 1 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Early Fire",
+				"row": 3,
+				"prerequisites": ["Mode 1 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Stick Hut",
+				"row": 4,
+				"prerequisites": ["Mode 1 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+                        {
+				"name": "Burial",
+				"row": 5,
+				"prerequisites": ["Mode 1 Stone Tools"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Philosophy",
 				"row": 6,
 				"prerequisites": ["Writing","Calendar"],
