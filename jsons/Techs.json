@@ -189,7 +189,7 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Language",
+				"name": "Early Language",
 				"row": 2,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
@@ -267,13 +267,13 @@
 			{
 				"name": "Religion",
 				"row": 4,
-				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Fire"],
+				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Inter-group Trade",
 				"row": 2,
-				"prerequisites": ["Mode 2 Stone Tools"],
+				"prerequisites": ["Mode 2 Stone Tools","Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
