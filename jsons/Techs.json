@@ -295,6 +295,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Shellfish",
+				"row": 7,
+				"prerequisites": ["Wooden Spears"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Theology",
 				"row": 17,
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
