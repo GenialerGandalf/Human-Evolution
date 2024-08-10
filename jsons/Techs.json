@@ -289,6 +289,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Cooking",
+				"row": 6,
+				"prerequisites": ["Early Fire"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Theology",
 				"row": 17,
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
