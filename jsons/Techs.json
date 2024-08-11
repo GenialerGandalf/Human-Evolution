@@ -202,7 +202,7 @@
 			},
 			{
 				"name": "Fire",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -272,7 +272,7 @@
 			},
 			{
 				"name": "Religion",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -308,8 +308,8 @@
 			},
 			{
 				"name": "Band Societies",
-				"row": 8,
-				"prerequisites": ["Hunting Big Game"],
+				"row": 4,
+				"prerequisites": ["Hunting Big Game", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
