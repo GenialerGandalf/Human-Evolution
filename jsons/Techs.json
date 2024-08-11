@@ -265,7 +265,7 @@
 		"wonderCost": 300,
 		"techs": [
 			{
-				"name": "Prepared Core Stone Tools",
+				"name": "Mode 3 Stone Tools",
 				"row": 1,
 				"prerequisites": ["Mode 2 Stone Tools"],
 				"quote": "'He who commands the se a has command of everything.' - Themistocles"
@@ -342,11 +342,29 @@
 	},
 	{
 		"columnNumber": 6,
-		"era": "Neolithic",
+		"era": "Upper Paleolithic",
 		"techCost": 485,
 		"buildingCost": 160,
 		"wonderCost": 400,
 		"techs": [
+			{
+				"name": "Mode 4 Stone Tools",
+				"row": 1,
+				"prerequisites": ["Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Flint Knives",
+				"row": 2,
+				"prerequisites": ["Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Campsites",
+				"row": 3,
+				"prerequisites": ["Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
 			{
 				"name": "Compass",
 				"cost": 375,
@@ -390,7 +408,7 @@
 	},
 	{
 		"columnNumber": 7,
-		"era": "Renaissance era",
+		"era": "Mesolithic",
 		"techCost": 780,
 		"buildingCost": 200,
 		"wonderCost": 500,
@@ -429,7 +447,7 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Renaissance era",
+		"era": "Neolithic",
 		"techCost": 1150,
 		"buildingCost": 250,
 		"wonderCost": 625,
