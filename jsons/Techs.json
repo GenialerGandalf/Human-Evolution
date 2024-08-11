@@ -309,7 +309,7 @@
 			{
 				"name": "Band Societies",
 				"row": 4,
-				"prerequisites": ["Hunting Big Game", "Early Language"],
+				"prerequisites": ["Hunting Big Game", "Early Language", "Stick Hut"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -362,14 +362,56 @@
 			{
 				"name": "Campsites",
 				"row": 3,
+				"prerequisites": ["Band Societies", "Meat Preservation", "Cooking"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Storage Pits",
+				"row": 4,
+				"prerequisites": ["Band Societies", "Meat Preservation", "Stone Spears"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Cave Painting",
+				"row": 5,
+				"prerequisites": ["Band Societies", "Religion"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Fishing Spears",
+				"row": 6,
+				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Fishing Hooks",
+				"row": 7,
+				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Oil Lamp",
+				"row": 8,
+				"prerequisites": ["Mode 3 Stone Tools", "Shellfish"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Rope",
+				"row": 9,
 				"prerequisites": ["Mode 3 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Eyed Needle",
+				"row": 10,
+				"prerequisites": ["Band Societies", "Meat Preservation", "Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Compass",
 				"cost": 375,
 				"row": 15,
-				"prerequisites": ["Optics","Theology"],
+				"prerequisites": ["Theology","Optics"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
