@@ -464,7 +464,7 @@
 			{
 				"name": "Klin",
 				"row": 2,
-				"prerequisites": ["Campsites", "Storage Pits", "Oil Lamps"],
+				"prerequisites": ["Campsites", "Storage Pits", "Oil Lamp"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -518,7 +518,7 @@
 			{
 				"name": "Music",
 				"row": 11,
-				"prerequisites": ["Mode 4 Stone Tools", "Campsite", "Cave Painting"],
+				"prerequisites": ["Mode 4 Stone Tools", "Campsites", "Cave Painting"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
