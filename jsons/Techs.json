@@ -148,6 +148,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Hunting Big Game",
+				"row": 4,
+				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Optics",
 				"cost": 85,
 				"row": 17,
@@ -262,7 +268,7 @@
 				"name": "Prepared Core Stone Tools",
 				"row": 1,
 				"prerequisites": ["Mode 2 Stone Tools"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"quote": "'He who commands the se a has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Religion",
@@ -298,6 +304,12 @@
 				"name": "Shellfish",
 				"row": 7,
 				"prerequisites": ["Wooden Spears"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
+				"name": "Band Societies",
+				"row": 8,
+				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
