@@ -279,7 +279,7 @@
 			{
 				"name": "Meat Preservation",
 				"row": 3,
-				"prerequisites": ["Early Fire", "Butchering"],
+				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
