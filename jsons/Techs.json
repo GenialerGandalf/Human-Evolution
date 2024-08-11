@@ -368,7 +368,7 @@
 			{
 				"name": "Storage Pits",
 				"row": 4,
-				"prerequisites": ["Band Societies", "Meat Preservation", "Stone Spears"],
+				"prerequisites": ["Band Societies", "Meat Preservation", "Stone Spears", "Inter-group Trade"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
