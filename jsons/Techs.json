@@ -482,7 +482,7 @@
 			{
 				"name": "Baskets",
 				"row": 5,
-				"prerequisites": ["Eyed Needle", "Flint Knives"],
+				"prerequisites": ["Eyed Needle", "Flint Knives", "Storage Pits"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -492,7 +492,7 @@
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
-				"name": "Temporary House",
+				"name": "Temporary Houses",
 				"row": 7,
 				"prerequisites": ["Campsites", "Storage Pits", "Rope", "Flint Knives"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
@@ -561,11 +561,17 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Neolithic",
+		"era": "Pre-Pottery Neolithic A",
 		"techCost": 1150,
 		"buildingCost": 250,
 		"wonderCost": 625,
 		"techs": [
+			{
+				"name": "Sickle-blades",
+				"row": 1,
+				"prerequisites": ["Mode 4 Stone Tools"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
 			{
 				"name": "Navigation",
 				"row": 16,
@@ -600,7 +606,7 @@
 	},
 	{
 		"columnNumber": 9,
-		"era": "Industrial era",
+		"era": "Pre-Pottery Neolithic B",
 		"techCost": 1600,
 		"buildingCost": 300,
 		"wonderCost": 750,
@@ -645,7 +651,7 @@
 	},
 	{
 		"columnNumber": 10,
-		"era": "Industrial era",
+		"era": "Pre-Pottery Neolithic C",
 		"techCost": 2350,
 		"buildingCost": 360,
 		"wonderCost": 900,
@@ -679,7 +685,7 @@
 	},
 	{
 		"columnNumber": 11,
-		"era": "Modern era",
+		"era": "Late Neolithic",
 		"techCost": 3100,
 		"buildingCost": 500,
 		"wonderCost": 1060,
@@ -718,7 +724,7 @@
 	},
 	{
 		"columnNumber": 12,
-		"era": "Modern era",
+		"era": "Copper era",
 		"techCost": 4100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
