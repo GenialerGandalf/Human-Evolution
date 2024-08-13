@@ -651,7 +651,7 @@
 	},
 	{
 		"columnNumber": 10,
-		"era": "Pre-Pottery Neolithic C",
+		"era": "Late Neolithic",
 		"techCost": 2350,
 		"buildingCost": 360,
 		"wonderCost": 900,
@@ -685,7 +685,7 @@
 	},
 	{
 		"columnNumber": 11,
-		"era": "Late Neolithic",
+		"era": "Copper era",
 		"techCost": 3100,
 		"buildingCost": 500,
 		"wonderCost": 1060,
@@ -724,7 +724,7 @@
 	},
 	{
 		"columnNumber": 12,
-		"era": "Copper era",
+		"era": "Bronze era",
 		"techCost": 4100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
@@ -757,7 +757,7 @@
 	},
 	{
 		"columnNumber": 13,
-		"era": "Atomic era",
+		"era": "Iron era",
 		"techCost": 5100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
