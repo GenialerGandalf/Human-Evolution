@@ -128,7 +128,7 @@
         "iconRGB": [233, 31, 99]
     },
     {
-        "name": "Pre-Pottery Neolithic C",
+        "name": "Bronze era",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "name": "Modern era",
+        "name": "Iron era",
         "researchAgreementCost": 350,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
