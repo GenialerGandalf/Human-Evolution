@@ -196,7 +196,7 @@
 			},
 			{
 				"name": "Early Language",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -214,7 +214,7 @@
 			},
                         {
 				"name": "Funeral",
-				"row": 9,
+				"row": 7,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
