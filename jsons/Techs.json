@@ -284,7 +284,7 @@
 			},
 			{
 				"name": "Meat Preservation",
-				"row": 3,
+				"row": 8,
 				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -308,7 +308,7 @@
 			},
 			{
 				"name": "Band Societies",
-				"row": 4,
+				"row": 10,
 				"prerequisites": ["Hunting Big Game", "Early Language", "Stick Hut"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
