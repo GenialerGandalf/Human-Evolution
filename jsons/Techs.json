@@ -196,8 +196,8 @@
 			},
 			{
 				"name": "Early Language",
-				"row": 3,
-				"prerequisites": ["Mode 1 Stone Tools"],
+				"row": 7,
+				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -208,12 +208,12 @@
 			},
 			{
 				"name": "Stick Hut",
-				"row": 7,
+				"row": 3,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
                         {
-				"name": "Burial",
+				"name": "Funeral",
 				"row": 9,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
@@ -273,7 +273,7 @@
 			{
 				"name": "Religion",
 				"row": 9,
-				"prerequisites": ["Mode 2 Stone Tools", "Burial", "Fire", "Early Language"],
+				"prerequisites": ["Mode 2 Stone Tools", "Funeral", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
