@@ -196,7 +196,7 @@
 			},
 			{
 				"name": "Early Language",
-				"row": 9,
+				"row": 11,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -208,19 +208,19 @@
 			},
 			{
 				"name": "Stick Hut",
-				"row": 3,
+				"row": 7,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
                         {
 				"name": "Funeral",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Wooden Spears",
-				"row": 11,
+				"row": 3,
 				"prerequisites": ["Mode 1 Stone Tools","Throwing"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
