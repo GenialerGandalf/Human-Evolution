@@ -335,7 +335,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Middle Paleolithic",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -350,7 +350,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Upper Paleolithic",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -458,7 +458,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 9,
 		"era": "Mesolithic",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -569,7 +569,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 11,
 		"era": "Pre-Pottery Neolithic A",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -614,7 +614,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 13,
 		"era": "Pre-Pottery Neolithic B",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -659,7 +659,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 15,
 		"era": "Late Neolithic",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -693,7 +693,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 17,
 		"era": "Copper era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -732,7 +732,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 19,
 		"era": "Bronze era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -798,7 +798,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 21,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -878,7 +878,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 23,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -917,7 +917,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 25,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
