@@ -331,7 +331,16 @@
 				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
-			},
+			}
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Middle Paleolithic",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
 			{
 				"name": "Metal Casting",
 				"row": 20,
