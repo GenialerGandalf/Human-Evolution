@@ -18,7 +18,7 @@
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Corn] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
-			"Instantly provides [2] [Food] <upon ending a turn in a [Avodaos] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
+			"Instantly provides [2] [Food] <upon ending a turn in a [Avocados] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Apple] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [5] [Food] <upon ending a turn in a [Pumpkins] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [3] [Food] <upon ending a turn in a [Watermelons] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
