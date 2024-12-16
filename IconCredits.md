@@ -1,1 +1,5 @@
-
+Branch by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/branch/" target="_blank" title="Branch Icons">Noun Project</a> (CC BY 3.0)
+Food by Sabda Vinsmoke from <a href="https://thenounproject.com/browse/icons/term/food/" target="_blank" title="Food Icons">Noun Project</a> (CC BY 3.0)
+round rock by Mayur Bhat from <a href="https://thenounproject.com/browse/icons/term/round-rock/" target="_blank" title="round rock Icons">Noun Project</a> (CC BY 3.0)
+leather by Luiz Carvalho from <a href="https://thenounproject.com/browse/icons/term/leather/" target="_blank" title="leather Icons">Noun Project</a> (CC BY 3.0)
+Water Icon taken from Deciv Redux (likely made by 9kgsofrice)
