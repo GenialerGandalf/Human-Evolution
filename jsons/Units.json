@@ -79,7 +79,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Stonethrower"
 		"uniques" : [
-			"[This Unit] upgrades for free <upon discovering [Throwing] technology>"
+			"[This Unit] upgrades for free <after discovering [Agriculture]> <upon turn start>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
