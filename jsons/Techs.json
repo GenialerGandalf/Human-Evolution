@@ -16,7 +16,7 @@
 				"cost": 1000000
 				"row": 20,
 				"uniques": ["Unavailable"]
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
 		]
 	},
@@ -31,7 +31,7 @@
 				"name": "Gathering",
 				"row": 6,
 				"prerequisites": ["Humanity"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9",
 				"uniques": ["Free [Settler] appears"]
 			},
 			{
