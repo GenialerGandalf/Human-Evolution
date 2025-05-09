@@ -54,4 +54,19 @@
 			"Instantly consumes [2] [Food] <upon turn end> <when above [61] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [60] [Food]>"]
     },
+    {
+        "name": "Crafter",
+        "movementType": "Land"
+		"uniques": ["Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [6] [Water]>",
+			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [6] [Water]>",
+			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
+			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
+			"Instantly consumes [1] [Water] <upon turn end>",
+			"Instantly consumes [1] [Food] <upon turn end>",
+			"Instantly consumes [1] [Food] <upon ending a turn in a [Forest] tile>",
+			"Instantly consumes [2] [Food] <upon ending a turn in a [Jungle] tile>",
+			"Instantly consumes [3] [Food] <upon ending a turn in a [Hill] tile>",
+			"No Sight <when below [0] [Water]>",
+			"Cannot attack <when below [0] [Water]>",
+    },
 ]
