@@ -36,7 +36,7 @@
 			"Instantly provides [1] [Food] <upon ending a turn in a [Citrus] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Truffels] tile> <after discovering [Domestication]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Carrots] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
-			"Instantly provides [2] [Food] <upon ending a turn in a [Potatos] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
+			"Instantly provides [2] [Food] <upon ending a turn in a [Potatoes] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Plains] tile> <after discovering [Gathering]> <with [25]% chance>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Grassland] tile> <after discovering [Gathering]> <with [50]% chance>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Forest] tile> <after discovering [Gathering]> <with [25]% chance>",
