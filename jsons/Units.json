@@ -152,10 +152,8 @@
 		"cost": 50,
 		"requiredTech": "Mode 0 Stone Tools",
 		"uniques" : [
-	        	"Instantly provides [3] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>",
-			"Instantly provides [3] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>"
+	        	"Instantly provides [1] [Mode 0 Tool] <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
+			"Instantly consumes [1] [Pebble] <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
