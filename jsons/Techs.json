@@ -16,7 +16,8 @@
 				"cost": 1000000
 				"row": 20,
 				"uniques": ["Unavailable"]
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"uniques": ["Free [Settler] appears"]
 			}
 		]
 	},
