@@ -67,6 +67,6 @@
 			"Instantly consumes [2] [Food] <upon ending a turn in a [Jungle] tile>",
 			"Instantly consumes [3] [Food] <upon ending a turn in a [Hill] tile>",
 			"No Sight <when below [0] [Water]>",
-			"Cannot attack <when below [0] [Water]>",
+			"Cannot attack <when below [0] [Water]>"]
     }
 ]
