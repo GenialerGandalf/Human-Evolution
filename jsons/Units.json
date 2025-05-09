@@ -20,7 +20,7 @@
 			"Instantly provides [2] [Food] <upon ending a turn in a [Wheat] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Corn] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Avocados] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
-			"Instantly provides [2] [Food] <upon ending a turn in a [Apple] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
+			"Instantly provides [2] [Food] <upon ending a turn in a [Apples] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [5] [Food] <upon ending a turn in a [Pumpkins] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [3] [Food] <upon ending a turn in a [Watermelons] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
 			"Instantly provides [2] [Food] <upon ending a turn in a [Coconuts] tile> <after discovering [Gathering]> <when above [-1] [Water]>",
