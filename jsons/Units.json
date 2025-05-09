@@ -112,11 +112,31 @@
 		"movement": 1,
 		"strength": 3,
 		"cost": 50,
+		"upgradesTo": "Stonespearthrower",
 		"requiredTech": "Wooden Spears",
 		"uniques" : [
-	        	"Instantly provides [1] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
+	        	"Instantly provides [2] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
 			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [50]% chance>",
+			"Instantly provides [2] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"[This Unit] upgrades for free <after discovering [Stone Spears]> <upon turn start>"
+			], // <with [Pebble]>
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
+		"name": "Stonespearthrower",
+		"unitType": "Nomad",
+		"movement": 1,
+		"strength": 4,
+		"cost": 50,
+		"requiredTech": "Stone Spears",
+		"uniques" : [
+	        	"Instantly provides [3] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly provides [3] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
 			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
