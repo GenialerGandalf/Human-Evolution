@@ -146,6 +146,23 @@
 		]
 	},
 	{
+		"name": "Mode 0 Crafter",
+		"unitType": "Crafter",
+		"movement": 1,
+		"cost": 50,
+		"requiredTech": "Mode 0 Stone Tools",
+		"uniques" : [
+	        	"Instantly provides [3] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>",
+			"Instantly provides [3] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>"
+			], // <with [Pebble]>
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
 		"name": "Brute",
 		"unitType": "Nomad",
 		"uniqueTo": "Barbarians",
