@@ -125,7 +125,8 @@
 			"Instantly consumes [3] [Food] <upon turn end> <when above [62] [Food]>",
 			"Instantly consumes [2] [Food] <upon turn end> <when above [61] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [60] [Food]>",
-			"Can upgrade to [Stonethrower] <after discovering [Throwing]>"
+			"Can upgrade to [Stonethrower] <after discovering [Throwing]>",
+			"[This Unit] upgrades for free <upon discovering [Throwing] technology>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
