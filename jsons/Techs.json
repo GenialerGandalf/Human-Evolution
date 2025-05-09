@@ -71,12 +71,14 @@
 				"row": 3,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"uniques":["Free [Mode 0 Crafter] appears"]
 			},
 			{
 				"name": "Hunting",
 				"row": 9,
 				"prerequisites": ["Gathering"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"uniques":["Free [Hunter] appears"]
 			},
 			{
 				"name": "Calendar",
