@@ -31,7 +31,7 @@
 			"Instantly provides [1] [Food] <upon ending a turn in a [Tropicfish] tile> <after discovering [Hunting]> <when above [-1] [Water]>",
 			"Instantly provides [3] [Food] <upon ending a turn in a [Horses] tile> <after discovering [Hunting]> <when above [-1] [Water]>",
 			"Instantly provides [5] [Food] <upon ending a turn in a [Elephants] tile> <after discovering [Hunting]> <when above [-1] [Water]>",
-			"Instantly provides [10] [Food] <upon ending a turn in a [Wales] tile> <after discovering [Hunting]> <when above [-1] [Water]>",
+			"Instantly provides [10] [Food] <upon ending a turn in a [Whales] tile> <after discovering [Hunting]> <when above [-1] [Water]>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Plains] tile> <after discovering [Gathering]> <with [25]% chance>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Grassland] tile> <after discovering [Gathering]> <with [50]% chance>",
 			"Instantly provides [1] [Food] <upon ending a turn in a [Forest] tile> <after discovering [Gathering]> <with [25]% chance>",
