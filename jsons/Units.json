@@ -154,17 +154,17 @@
 		"uniques" : [
 	        	"Instantly provides [1] [Mode 0 Tool] <with [Pebble]> <after discovering [Mode 0 Stone Tools]> <when above [-1] [Water]> <with [50]% chance>",
 			"Instantly consumes [1] [Pebble] <with [Pebble]> <after discovering [Mode 0 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Mode 1 Tool] <with [Mode 0 Tool]> <after discovering [Mode 1 Stone Tools]> <when above [-1] [Water]> <with [50]% chance>",
+			"Instantly provides [1] [Mode 1 Tool] <with [Mode 0 Tool]> <after discovering [Mode 1 Stone Tools]> <when above [-1] [Water]> <with [33]% chance>",
 			"Instantly consumes [1] [Mode 0 Tool] <with [Mode 0 Tool]> <after discovering [Mode 1 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Mode 2 Tool] <with [Mode 1 Tool]> <after discovering [Mode 2 Stone Tools]> <when above [-1] [Water]> <with [33]% chance>",
+			"Instantly provides [1] [Mode 2 Tool] <with [Mode 1 Tool]> <after discovering [Mode 2 Stone Tools]> <when above [-1] [Water]> <with [25]% chance>",
 			"Instantly consumes [1] [Mode 1 Tool] <with [Mode 1 Tool]> <after discovering [Mode 2 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Mode 3 Tool] <with [Mode 2 Tool]> <after discovering [Mode 3 Stone Tools]> <when above [-1] [Water]> <with [25]% chance>",
+			"Instantly provides [1] [Mode 3 Tool] <with [Mode 2 Tool]> <after discovering [Mode 3 Stone Tools]> <when above [-1] [Water]> <with [20]% chance>",
 			"Instantly consumes [1] [Mode 2 Tool] <with [Mode 2 Tool]> <after discovering [Mode 3 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Mode 4 Tool] <with [Mode 3 Tool]> <after discovering [Mode 4 Stone Tools]> <when above [-1] [Water]> <with [20]% chance>",
+			"Instantly provides [1] [Mode 4 Tool] <with [Mode 3 Tool]> <after discovering [Mode 4 Stone Tools]> <when above [-1] [Water]> <with [17]% chance>",
 			"Instantly consumes [1] [Mode 3 Tool] <with [Mode 3 Tool]> <after discovering [Mode 4 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Mode 5 Tool] <with [Mode 4 Tool]> <after discovering [Mode 5 Stone Tools]> <when above [-1] [Water]> <with [17]% chance>",
+			"Instantly provides [1] [Mode 5 Tool] <with [Mode 4 Tool]> <after discovering [Mode 5 Stone Tools]> <when above [-1] [Water]> <with [14]% chance>",
 			"Instantly consumes [1] [Mode 4 Tool] <with [Mode 4 Tool]> <after discovering [Mode 5 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Sickle-blade] <with [Mode 5 Tool]> <after discovering [Sickle-blade]> <when above [-1] [Water]> <with [14]% chance>",
+			"Instantly provides [1] [Sickle-blade] <with [Mode 5 Tool]> <after discovering [Sickle-blade]> <when above [-1] [Water]> <with [12]% chance>",
 			"Instantly consumes [1] [Mode 5 Tool] <with [Mode 5 Tool]> <after discovering [Sickle-blade]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
