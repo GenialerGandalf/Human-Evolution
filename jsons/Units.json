@@ -116,10 +116,10 @@
 		"upgradesTo": "Stonespearthrower",
 		"requiredTech": "Wooden Spears",
 		"uniques" : [
-	        	"Instantly provides [2] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [25]% chance>",
-			"Instantly provides [2] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [25]% chance>",
+	        	"Instantly provides [2] [Leather] <upon ending a turn in a [Cattle] tile> <with [Wood Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
+			"Instantly consumes [1] [Wood Spear] <upon ending a turn in a [Cattle] tile> <with [Wood Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [25]% chance>",
+			"Instantly provides [2] [Leather] <upon ending a turn in a [Bulls] tile> <with [Wood Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [75]% chance>",
+			"Instantly consumes [1] [Wood Spear] <upon ending a turn in a [Bulls] tile> <with [wood Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [25]% chance>",
 			"[This Unit] upgrades for free <after discovering [Stone Spears]> <upon turn start>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
@@ -135,10 +135,10 @@
 		"cost": 50,
 		"requiredTech": "Stone Spears",
 		"uniques" : [
-	        	"Instantly provides [3] [Leather] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Cattle] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>",
-			"Instantly provides [3] [Leather] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]>",
-			"Instantly consumes [1] [Pebble] <upon ending a turn in a [Bulls] tile> <with [Pebble]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>"
+	        	"Instantly provides [3] [Leather] <upon ending a turn in a [Cattle] tile> <with [Stone Spear]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Stone Spear] <upon ending a turn in a [Cattle] tile> <with [Stone Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>",
+			"Instantly provides [3] [Leather] <upon ending a turn in a [Bulls] tile> <with [Stone Spear]> <after discovering [Throwing]> <when above [-1] [Water]>",
+			"Instantly consumes [1] [Stone Spear] <upon ending a turn in a [Bulls] tile> <with [Stone Spear]> <after discovering [Throwing]> <when above [-1] [Water]> <with [10]% chance>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
