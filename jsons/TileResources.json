@@ -415,6 +415,42 @@
 		"production": 1,
 		"uniques": ["Stockpiled"],
 	},
+	{
+		"name": "Mode 1 Tool",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Mode 2 Tool",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Mode 3 Tool",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Mode 4 Tool",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Mode 5 Tool",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Switch Blade",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
 	// Luxury resources
 	{
 		"name": "Furs",
