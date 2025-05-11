@@ -53,10 +53,11 @@
 			"Instantly consumes [2] [Food] <upon turn end> <when above [61] [Food]>",
 			"Instantly consumes [1] [Food] <upon turn end> <when above [60] [Food]>",
 			"Gain [1] [Science] <upon turn end>",
-			"Gain [1] [Science] <upon ending a turn in a [Plains] tile> <when above [-1] [Water]>",
-			"Gain [2] [Science] <upon ending a turn in a [Grassland] tile> <when above [-1] [Water]>",
+			"Gain [2] [Science] <upon ending a turn in a [Plains] tile> <when above [-1] [Water]>",
+			"Gain [1] [Science] <upon ending a turn in a [Grassland] tile> <when above [-1] [Water]>",
 			"Instantly provides [1] [Stick] <upon ending a turn in a [Forest] tile><after discovering [Gathering]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]> <when above [-1] [Water]>"
+			"Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile><after discovering [Gathering]> <when above [-1] [Water]>",
+			"Instantly provides [1] [Pebble] <upon ending a turn in a [Stone] tile><after discovering [Gathering)> <when above [-1] [Water]>]"
 		],
 		"hurryCostModifier": 20
 	},
