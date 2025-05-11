@@ -78,8 +78,7 @@
 				"name": "Hunting",
 				"row": 9,
 				"prerequisites": ["Gathering"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-				"uniques":["Free [Hunter] appears"]
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Calendar",
@@ -154,7 +153,8 @@
 				"name": "Hunting Big Game",
 				"row": 10,
 				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"uniques":["Free [Hunter] appears"]
 			},
 			{
 				"name": "Optics",
