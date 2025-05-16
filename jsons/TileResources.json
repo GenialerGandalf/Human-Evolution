@@ -446,7 +446,25 @@
 		"uniques": ["Stockpiled"],
 	},
 	{
-		"name": "Switch Blade",
+		"name": "Sickle Blade",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Water Storage",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Food Storage",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Item Storage",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
