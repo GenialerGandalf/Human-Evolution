@@ -58,7 +58,6 @@
         "name": "Crafter",
         "movementType": "Land"
 		"uniques": ["Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [6] [Water]>",
-			"Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [6] [Water]>",
 			"Instantly consumes [1] [Water] <upon ending a turn in a [Plains] tile>",
 			"Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
 			"Instantly consumes [1] [Water] <upon turn end>",
