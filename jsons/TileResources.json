@@ -452,7 +452,37 @@
 		"uniques": ["Stockpiled"],
 	},
 	{
+		"name": "Wooden Spear",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Stone Spear",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Flint Knive",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Hand Axe",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
 		"name": "Water Storage",
+		"resourceType": "Strategic",
+		"production": 1,
+		"uniques": ["Stockpiled"],
+	},
+	{
+		"name": "Arrows",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
