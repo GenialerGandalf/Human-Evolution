@@ -1,159 +1,24 @@
 [
     {
-        "name": "Light Earthquake",
-        "text": "A light earthquake has occured in your territory, causing minor damage.",
+        "name": "",
+        "text": ".",
         "choices": [
             {
-                "text": "Mitigate it",
+                "text": "",
                 "uniques": [
-                    "Instantly gain [-5] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-5] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
+                    
                 ]
             },
             {
-                "text": "Endure it",
+                "text": "",
                 "uniques": [
-                    "Instantly gain [-50] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-50] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is not constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
+                    
                 ]
             },
             {
-                "text": "Harness it!",
+                "text": "",
                 "uniques": [
-                    "Instantly gain [5] [Gold] <(modified by game speed)>",
-                    "Only available <if [Tectonic Harness] is constructed>"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Medium Earthquake",
-        "text": "A medium earthquake has occured in your territory, causing some damage.",
-        "choices": [
-            {
-                "text": "Mitigate it",
-                "uniques": [
-                    "Instantly gain [-10] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-10] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Endure it",
-                "uniques": [
-                    "Instantly gain [-100] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-50] [Science] <(modified by game speed)>",
-                    "Instantly gain [-100] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is not constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Harness it!",
-                "uniques": [
-                    "Instantly gain [10] [Gold] <(modified by game speed)>",
-                    "Only available <if [Tectonic Harness] is constructed>"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Heavy Earthquake",
-        "text": "A heavy earthquake has occured in your territory, causing major damage.",
-        "choices": [
-            {
-                "text": "Mitigate it",
-                "uniques": [
-                    "Instantly gain [-15] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-15] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Endure it",
-                "uniques": [
-                    "Instantly gain [-200] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-100] [Science] <(modified by game speed)>",
-                    "Instantly gain [-50] [Culture] <(modified by game speed)>",
-                    "[-1] population in a random city",
-                    "Instantly gain [-200] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is not constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Harness it!",
-                "uniques": [
-                    "Instantly gain [15] [Gold] <(modified by game speed)>",
-                    "Only available <if [Tectonic Harness] is constructed>"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Massive Earthquake",
-        "text": "A massive earthquake has occured in your territory, causing severe damage.",
-        "choices": [
-            {
-                "text": "Mitigate it",
-                "uniques": [
-                    "Instantly gain [-20] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-20] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Endure it",
-                "uniques": [
-                    "Instantly gain [-400] [Gold] <(modified by game speed)>",
-                    "Instantly gain [-200] [Science] <(modified by game speed)>",
-                    "Instantly gain [-100] [Culture] <(modified by game speed)>",
-                    "[-1] population in a random city",
-                    "[-1] population in a random city",
-                    "Instantly gain [-400] [Parts] <(modified by game speed)>",
-                    "Only available <if [Seismic Dampening System] is not constructed>",
-                    "Only available <if [Tectonic Harness] is not constructed>"
-                ]
-            },
-            {
-                "text": "Harness it!",
-                "uniques": [
-                    "Instantly gain [20] [Gold] <(modified by game speed)>",
-                    "Instantly gain [20] [Science] <(modified by game speed)>",
-                    "Only available <if [Tectonic Harness] is constructed>"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Seek Out Parts",
-        "text": "We have no building materials for our company. We must obtain more material to make progress.",
-        "choices": [
-            {
-                "text": "Obtain more material",
-                "uniques": ["Instantly gain [1] [Parts]", "Free [Labor Drone] appears"]
-            },
-            {
-                "text": "Dismantle buildings for parts",
-                "uniques": [
-                    "Instantly gain [1] [Parts] <for every [[Waste Reprocessor] Buildings]>",
-                    "Sell [Waste Reprocessor] buildings [in all cities]",
-                    "Only available <if [Waste Reprocessor] is constructed>"
-                ]
-            },
-            {
-                "text": "Dismantle more buildings",
-                "uniques": [
-                    "Instantly gain [1] [Parts] <for every [[Parts Recycler] Buildings]>",
-                    "Sell [Parts Recycler] buildings [in all cities]",
-                    "Only available <if [Waste Reprocessor] is not constructed>"
+                    
                 ]
             }
         ]
