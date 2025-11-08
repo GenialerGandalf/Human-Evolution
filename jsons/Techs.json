@@ -199,13 +199,13 @@
 			},
 			{
 				"name": "Early Language",
-				"row": 11,
+				"row": 9,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Fire",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -217,7 +217,7 @@
 			},
                         {
 				"name": "Funeral",
-				"row": 9,
+				"row": 11,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -275,13 +275,13 @@
 			},
 			{
 				"name": "Religion",
-				"row": 9,
+				"row": 11,
 				"prerequisites": ["Funeral", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Inter-group Trade",
-				"row": 2,
+				"row": 10,
 				"prerequisites": ["Mode 2 Stone Tools","Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -293,25 +293,25 @@
 			},
 			{
 				"name": "Stone Spears",
-				"row": 5,
+				"row": 3,
 				"prerequisites": ["Mode 2 Stone Tools", "Wooden Spears"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Cooking",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Shellfish",
-				"row": 7,
+				"row": 2,
 				"prerequisites": ["Mode 2 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Band Societies",
-				"row": 10,
+				"row": 9,
 				"prerequisites": ["Hunting Big Game", "Early Language", "Stick Hut"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
