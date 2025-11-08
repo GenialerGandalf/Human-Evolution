@@ -282,7 +282,7 @@
 			{
 				"name": "Inter-group Trade",
 				"row": 10,
-				"prerequisites": ["Mode 2 Stone Tools","Early Language"],
+				"prerequisites": ["Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -312,7 +312,7 @@
 			{
 				"name": "Band Societies",
 				"row": 9,
-				"prerequisites": ["Hunting Big Game", "Early Language", "Stick Hut"],
+				"prerequisites": ["Early Language", "Stick Hut"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
