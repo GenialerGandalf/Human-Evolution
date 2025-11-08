@@ -334,16 +334,7 @@
 				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
-			}
-		]
-	},
-	{
-		"columnNumber": 6,
-		"era": "Upper Paleolithic",
-		"techCost": 275,
-		"buildingCost": 120,
-		"wonderCost": 300,
-		"techs": [
+			},
 			{
 				"name": "Metal Casting",
 				"row": 20,
@@ -353,7 +344,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 6,
 		"era": "Upper Paleolithic",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -461,7 +452,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 7,
 		"era": "Mesolithic",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -572,7 +563,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 8,
 		"era": "Pre-Pottery Neolithic A",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -617,7 +608,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 9,
 		"era": "Pre-Pottery Neolithic B",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -662,7 +653,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 10,
 		"era": "Late Neolithic",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -696,7 +687,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 10,
 		"era": "Copper era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -735,7 +726,7 @@
 		]
 	},
 	{
-		"columnNumber": 19,
+		"columnNumber": 11,
 		"era": "Bronze era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -768,7 +759,7 @@
 		]
 	},
 	{
-		"columnNumber": 21,
+		"columnNumber": 12,
 		"era": "Iron era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -801,7 +792,7 @@
 		]
 	},
 	{
-		"columnNumber": 23,
+		"columnNumber": 13,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -834,7 +825,7 @@
 		]
 	},
 	{
-		"columnNumber": 25,
+		"columnNumber": 14,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -881,7 +872,7 @@
 	},
 
 	{
-		"columnNumber": 27,
+		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -920,7 +911,7 @@
 		]
 	},
 	{
-		"columnNumber": 29,
+		"columnNumber": 16,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
