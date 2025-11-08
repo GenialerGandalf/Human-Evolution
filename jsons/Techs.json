@@ -687,7 +687,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Copper era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -726,7 +726,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Bronze era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -759,7 +759,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Iron era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -792,7 +792,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -825,7 +825,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -872,7 +872,7 @@
 	},
 
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -911,7 +911,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
