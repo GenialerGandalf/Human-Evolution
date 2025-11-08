@@ -140,7 +140,7 @@
 			{
 				"name": "Throwing",
 				"row": 4,
-				"prerequisites": ["Mode 0 Stone Tools"],
+				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -205,26 +205,26 @@
 			},
 			{
 				"name": "Fire",
-				"row": 5,
+				"row": 7,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Stick Hut",
-				"row": 7,
+				"row": 5,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
                         {
 				"name": "Funeral",
 				"row": 9,
-				"prerequisites": ["Mode 1 Stone Tools"],
+				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Wooden Spears",
 				"row": 3,
-				"prerequisites": ["Mode 1 Stone Tools","Throwing"],
+				"prerequisites": ["Mode 1 Stone Tools","Throwing","Hunting Big Game"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 						{
@@ -276,7 +276,7 @@
 			{
 				"name": "Religion",
 				"row": 9,
-				"prerequisites": ["Mode 2 Stone Tools", "Funeral", "Fire", "Early Language"],
+				"prerequisites": ["Funeral", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -300,13 +300,13 @@
 			{
 				"name": "Cooking",
 				"row": 6,
-				"prerequisites": ["Fire", "Wooden Spears"],
+				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Shellfish",
 				"row": 7,
-				"prerequisites": ["Wooden Spears"],
+				"prerequisites": ["Mode 2 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
