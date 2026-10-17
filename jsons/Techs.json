@@ -312,7 +312,7 @@
 			{
 				"name": "Band Societies",
 				"row": 14,
-				"prerequisites": ["Early Language", "Stick Hut"],
+				"prerequisites": ["Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
@@ -358,37 +358,37 @@
 			},
 			{
 				"name": "Flint Knives",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Campsites",
-				"row": 3,
-				"prerequisites": ["Band Societies", "Meat Preservation", "Cooking"],
+				"row": 6,
+				"prerequisites": ["Band Societies", "Meat Preservation", "Cooking", "Stick Hut"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Storage Pits",
-				"row": 4,
-				"prerequisites": ["Band Societies", "Meat Preservation", "Stone Spears", "Inter-group Trade"],
+				"row": 7,
+				"prerequisites": ["Band Societies", "Meat Preservation", "Stick Hut", "Inter-group Trade"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Cave Painting",
-				"row": 5,
+				"row": 15,
 				"prerequisites": ["Band Societies", "Religion"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Fishing Spears",
-				"row": 6,
+				"row": 10,
 				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Fishing Hooks",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
@@ -400,52 +400,52 @@
 			},
 			{
 				"name": "Rope",
-				"row": 9,
+				"row": 3,
 				"prerequisites": ["Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Eyed Needle",
-				"row": 10,
+				"row": 13,
 				"prerequisites": ["Band Societies", "Meat Preservation", "Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Compass",
 				"cost": 375,
-				"row": 15,
+				"row": 21,
 				"prerequisites": ["Theology","Optics"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
 				"name": "Education",
-				"row": 16,
+				"row": 22,
 				"prerequisites": ["Theology","Civil Service"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
 				"name": "Chivalry",
-				"row": 17,
+				"row": 23,
 				"prerequisites": ["Civil Service","Guilds"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
 			{
 				"name": "Machinery",
-				"row": 18,
+				"row": 24,
 				"prerequisites": ["Guilds","Engineering"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
 			},
 			{
 				"name": "Physics",
-				"row": 19,
+				"row": 25,
 				"prerequisites": ["Metal Casting"],
 				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
 			},
 			{
 				"name": "Steel",
-				"row": 20,
+				"row": 26,
 				"prerequisites": ["Metal Casting"],
 				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
 			}
