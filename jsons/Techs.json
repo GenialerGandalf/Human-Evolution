@@ -14,7 +14,7 @@
 			{
 				"name": "Agriculture",
 				"cost": 1000000
-				"row": 20,
+				"row": 21,
 				"uniques": ["Unavailable"]
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
@@ -36,25 +36,25 @@
 			},
 			{
 				"name": "Pottery",
-				"row": 17,
+				"row": 21,
 				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Animal Husbandry",
-				"row": 18,
+				"row": 22,
 				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Archery",
-				"row": 19,
+				"row": 23,
 				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Mining",
-				"row": 20,
+				"row": 24,
 				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			}
@@ -82,43 +82,43 @@
 			},
 			{
 				"name": "Calendar",
-				"row": 16,
+				"row": 21,
 				"prerequisites": ["Pottery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Sailing",
-				"row": 14,
+				"row": 22,
 				"prerequisites": ["Pottery"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
 				"name": "Writing",
-				"row": 15,
+				"row": 23,
 				"prerequisites": ["Pottery"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
 				"name": "Trapping",
-				"row": 17,
+				"row": 24,
 				"prerequisites": ["Animal Husbandry"],
 				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
 			},
 			{
 				"name": "The Wheel",
-				"row": 18,
+				"row": 25,
 				"prerequisites": ["Animal Husbandry", "Archery"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
 			{
 				"name": "Masonry",
-				"row": 19,
+				"row": 26,
 				"prerequisites": ["Mining"],
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
 			{
 				"name": "Bronze Working",
-				"row": 20,
+				"row": 27,
 				"prerequisites": ["Mining"],
 				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
 			}
@@ -159,26 +159,26 @@
 			{
 				"name": "Optics",
 				"cost": 85,
-				"row": 17,
+				"row": 21,
 				"prerequisites": ["Sailing"],
 				"uniques": ["Enables embarkation for land units"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
 				"name": "Horseback Riding",
-				"row": 18,
+				"row": 22,
 				"prerequisites": ["Trapping","The Wheel"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
 				"name": "Mathematics",
-				"row": 19,
+				"row": 23,
 				"prerequisites": ["The Wheel"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
 				"name": "Construction",
-				"row": 20,
+				"row": 24,
 				"prerequisites": ["Masonry","The Wheel"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
@@ -254,7 +254,7 @@
 			},
 			{
 				"name": "Iron Working",
-				"row": 20,
+				"row": 25,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
 			}
@@ -466,32 +466,20 @@
 			},
 			{
 				"name": "Klin",
-				"row": 2,
+				"row": 8,
 				"prerequisites": ["Campsites", "Storage Pits", "Oil Lamp"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
-				"name": "Clothing",
-				"row": 3,
-				"prerequisites": ["Eyed Needle", "Flint Knives"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
-			},
-			{
 				"name": "Shoes",
-				"row": 4,
+				"row": 2,
 				"prerequisites": ["Eyed Needle", "Flint Knives"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Baskets",
 				"row": 5,
-				"prerequisites": ["Eyed Needle", "Flint Knives", "Storage Pits"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
-			},
-			{
-				"name": "Stonehenge",
-				"row": 6,
-				"prerequisites": ["Rope", "Storage Pits", "Campsites", "Cave Painting"],
+				"prerequisites": ["Rope", "Storage Pits"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -502,61 +490,49 @@
 			},
 			{
 				"name": "Textiles",
-				"row": 8,
+				"row": 13,
 				"prerequisites": ["Rope", "Eyed Needle"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
-				"name": "Boat",
-				"row": 9,
-				"prerequisites": ["Rope", "Fishing Spears", "Fishing Hooks"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
-			},
-			{
-				"name": "Sail",
-				"row": 10,
-				"prerequisites": ["Rope", "Eyed Needle", "Flint Knives"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
-			},
-			{
 				"name": "Music",
-				"row": 11,
+				"row": 15,
 				"prerequisites": ["Mode 4 Stone Tools", "Campsites", "Cave Painting"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Skulpture",
-				"row": 12,
+				"row": 16,
 				"prerequisites": ["Mode 4 Stone Tools", "Flint Knives", "Cave Painting"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Astronomy",
-				"row": 16,
+				"row": 21,
 				"prerequisites": ["Compass","Education"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
 				"name": "Acoustics",
-				"row": 17,
+				"row": 22,
 				"prerequisites": ["Education"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
 				"name": "Banking",
-				"row": 18,
+				"row": 23,
 				"prerequisites": ["Chivalry", "Education"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{
 				"name": "Printing Press",
-				"row": 19,
+				"row": 24,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{
 				"name": "Gunpowder",
-				"row": 20,
+				"row": 25,
 				"prerequisites": ["Physics","Steel"],
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
@@ -564,6 +540,37 @@
 	},
 	{
 		"columnNumber": 8,
+		"era": "Mesolithic",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Stonehenge",
+				"row": 6,
+				"prerequisites": ["Rope", "Storage Pits", "Campsites", "Cave Painting"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Boat",
+				"row": 4,
+				"prerequisites": ["Rope", "Fishing Spears", "Fishing Hooks"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Clothing",
+				"row": 11,
+				"prerequisites": ["Textiles", "Flint Knives"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Sail",
+				"row": 12,
+				"prerequisites": ["Textiles", "Flint Knives"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			}
+	{
+		"columnNumber": 9,
 		"era": "Pre-Pottery Neolithic A",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -577,38 +584,38 @@
 			},
 			{
 				"name": "Navigation",
-				"row": 16,
+				"row": 21,
 				"prerequisites": ["Astronomy"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
 			{
 				"name": "Architecture",
-				"row": 17,
+				"row": 22,
 				"prerequisites": ["Acoustics","Banking"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
 				"name": "Economics",
-				"row": 18,
+				"row": 23,
 				"prerequisites": ["Banking","Printing Press"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
 				"name": "Metallurgy",
-				"row": 19,
+				"row": 24,
 				"prerequisites": ["Printing Press","Gunpowder"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},
 			{
 				"name": "Chemistry",
-				"row": 20,
+				"row": 25,
 				"prerequisites": ["Gunpowder"],
 				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
 			}
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Pre-Pottery Neolithic B",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -653,7 +660,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Late Neolithic",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -687,7 +694,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Copper era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -726,7 +733,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Bronze era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -759,7 +766,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Iron era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -792,7 +799,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -825,7 +832,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -872,7 +879,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -911,7 +918,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
