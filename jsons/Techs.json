@@ -358,7 +358,7 @@
 			},
 			{
 				"name": "Flint Knives",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
