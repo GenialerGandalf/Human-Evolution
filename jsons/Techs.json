@@ -211,7 +211,7 @@
 			},
 			{
 				"name": "Stick Hut",
-				"row": 11,
+				"row": 8,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -223,7 +223,7 @@
 			},
 			{
 				"name": "Wooden Spears",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Mode 1 Stone Tools","Throwing","Hunting Big Game"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
