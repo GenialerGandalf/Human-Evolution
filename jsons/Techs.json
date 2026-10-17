@@ -466,8 +466,8 @@
 			},
 			{
 				"name": "Kiln",
-				"row": 10,
-				"prerequisites": ["Storage Pits", "Oil Lamp"],
+				"row": 11,
+				"prerequisites": ["Storage Pits", "Oil Lamp", "Cooking"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -566,7 +566,7 @@
 			{
 				"name": "Sail",
 				"row": 10,
-				"prerequisites": ["Textiles"],
+				"prerequisites": ["Textiles", "Fishing Hooks"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]
