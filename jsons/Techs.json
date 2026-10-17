@@ -6,8 +6,8 @@
 		"buildingCost": 2,
 		"techs": [
 			{
-				"name": "Humanity",
-				"row": 11,
+				"name": "Hominini",
+				"row": 10,
 				"quote": "'And the Humans appeared on the planet' - GG",
 				"uniques": ["Starting tech"]
 			},
@@ -29,8 +29,8 @@
 		"techs": [
 			{
 				"name": "Gathering",
-				"row": 11,
-				"prerequisites": ["Humanity"],
+				"row": 10,
+				"prerequisites": ["Hominini"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9",
 				"uniques": ["Free [Settler] appears"]
 			},
@@ -69,14 +69,14 @@
 		"techs": [
 			{
 				"name": "Mode 0 Stone Tools",
-				"row": 3,
+				"row": 9,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 				"uniques":["Free [Mode 0 Crafter] appears"]
 			},
 			{
 				"name": "Hunting",
-				"row": 9,
+				"row": 11,
 				"prerequisites": ["Gathering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -133,26 +133,26 @@
 		"techs": [
 			{
 				"name": "Mode 1 Stone Tools",
-				"row": 2,
+				"row": 7,
 				"prerequisites": ["Mode 0 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Throwing",
-				"row": 4,
+				"row": 9,
 				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Butchering",
-				"row": 8,
+				"row": 11,
 				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Hunting Big Game",
-				"row": 10,
-				"prerequisites": ["Mode 0 Stone Tools","Hunting"],
+				"row": 13,
+				"prerequisites": ["Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 				"uniques":["Free [Hunter] appears"]
 			},
@@ -193,13 +193,13 @@
 		"techs": [
 			{
 				"name": "Mode 2 Stone Tools",
-				"row": 1,
+				"row": 4,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Early Language",
-				"row": 9,
+				"row": 16,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -211,19 +211,19 @@
 			},
 			{
 				"name": "Stick Hut",
-				"row": 5,
+				"row": 11,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
                         {
 				"name": "Funeral",
-				"row": 11,
+				"row": 14,
 				"prerequisites": ["Hunting Big Game"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Wooden Spears",
-				"row": 3,
+				"row": 9,
 				"prerequisites": ["Mode 1 Stone Tools","Throwing","Hunting Big Game"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
