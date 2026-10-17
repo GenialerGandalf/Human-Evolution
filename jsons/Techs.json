@@ -1,13 +1,13 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Ancient era",
+		"era": "Miocene",
 		"techCost": 2,
 		"buildingCost": 2,
 		"techs": [
 			{
 				"name": "Humanity",
-				"row": 6,
+				"row": 11,
 				"quote": "'And the Humans appeared on the planet' - GG",
 				"uniques": ["Starting tech"]
 			},
@@ -22,14 +22,14 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Ancient era",
+		"era": "Pilocene",
 		"techCost": 4,
 		"buildingCost": 60,
 		"wonderCost": 185,
 		"techs": [
 			{
 				"name": "Gathering",
-				"row": 6,
+				"row": 11,
 				"prerequisites": ["Humanity"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9",
 				"uniques": ["Free [Settler] appears"]
