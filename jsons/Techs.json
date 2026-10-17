@@ -205,13 +205,13 @@
 			},
 			{
 				"name": "Fire",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Stick Hut",
-				"row": 8,
+				"row": 6,
 				"prerequisites": ["Mode 1 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
@@ -269,75 +269,75 @@
 		"techs": [
 			{
 				"name": "Mode 3 Stone Tools",
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Mode 2 Stone Tools"],
 				"quote": "'He who commands the se a has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Religion",
-				"row": 11,
+				"row": 16,
 				"prerequisites": ["Funeral", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Inter-group Trade",
-				"row": 10,
+				"row": 18,
 				"prerequisites": ["Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Meat Preservation",
-				"row": 8,
+				"row": 12,
 				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Stone Spears",
-				"row": 3,
+				"row": 10,
 				"prerequisites": ["Mode 2 Stone Tools", "Wooden Spears"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Cooking",
-				"row": 7,
+				"row": 11,
 				"prerequisites": ["Fire", "Butchering"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Shellfish",
-				"row": 2,
+				"row": 4,
 				"prerequisites": ["Mode 2 Stone Tools"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Band Societies",
-				"row": 9,
+				"row": 14,
 				"prerequisites": ["Early Language", "Stick Hut"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Theology",
-				"row": 17,
+				"row": 21,
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
 			{
 				"name": "Civil Service",
-				"row": 18,
+				"row": 22,
 				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
 				"name": "Guilds",
-				"row": 19,
+				"row": 23,
 				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Metal Casting",
-				"row": 20,
+				"row": 24,
 				"prerequisites": ["Engineering","Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
