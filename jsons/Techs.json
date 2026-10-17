@@ -465,9 +465,9 @@
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
-				"name": "Klin",
-				"row": 8,
-				"prerequisites": ["Campsites", "Storage Pits", "Oil Lamp"],
+				"name": "Kiln",
+				"row": 10,
+				"prerequisites": ["Storage Pits", "Oil Lamp"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -559,13 +559,13 @@
 			},
 			{
 				"name": "Clothing",
-				"row": 11,
+				"row": 13,
 				"prerequisites": ["Textiles"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Sail",
-				"row": 12,
+				"row": 10,
 				"prerequisites": ["Textiles"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
