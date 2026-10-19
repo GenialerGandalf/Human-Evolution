@@ -274,7 +274,7 @@
 				"quote": "'He who commands the se a has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Religion",
+				"name": "Religions",
 				"row": 16,
 				"prerequisites": ["Funeral", "Fire", "Early Language"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
@@ -377,7 +377,7 @@
 			{
 				"name": "Cave Painting",
 				"row": 15,
-				"prerequisites": ["Band Societies", "Religion"],
+				"prerequisites": ["Band Societies", "Religions"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
