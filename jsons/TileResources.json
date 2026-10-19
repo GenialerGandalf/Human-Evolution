@@ -458,7 +458,7 @@
 		"uniques": ["Stockpiled"],
 	},
 	{
-		"name": "Wooden Spear",
+		"name": "Wood Spear",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
