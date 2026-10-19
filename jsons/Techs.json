@@ -371,7 +371,7 @@
 			{
 				"name": "Storage Pits",
 				"row": 7,
-				"prerequisites": ["Band Societies", "Meat Preservation", "Stick Hut", "Inter-group Trade"],
+				"prerequisites": ["Band Societies", "Meat Preservation", "Stick Hut"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -383,13 +383,13 @@
 			{
 				"name": "Fishing Spears",
 				"row": 10,
-				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
+				"prerequisites": ["Stone Spears"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Fishing Hooks",
 				"row": 9,
-				"prerequisites": ["Stone Spears", "Mode 3 Stone Tools"],
+				"prerequisites": ["Stone Spears"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
