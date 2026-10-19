@@ -12,7 +12,7 @@
 		"movement": 1,
 		"cost": 106,
 		"uniques": [
-	    "Instantly provides [1] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [7] [Water]>",
+	    "Instantly provides [2] [Water] <upon turn end> <in [Fresh Water] tiles> <when below [5] [Water]>",
 	    "Instantly consumes [1] [Water] <upon ending a turn in a [Snow] tile>",
 		"Instantly consumes [1] [Food] <upon ending a turn in a [Snow] tile>",
 	    "Instantly consumes [2] [Water] <upon ending a turn in a [Desert] tile>",
@@ -51,11 +51,10 @@
 	
 	    "No Sight <when below [0] [Water]>",
 	
-	    "Set [Food] to [20] <when above [20] [Food]>",
+	    "Set [Food] to [30] <when above [30] [Food]> <upon turn end>",
+		"Set [Water] to [5] <when above [5] [Water]> <upon turn end>",
 	
 	    "Gain [1] [Science] <upon turn end>",
-	    "Gain [2] [Science] <upon ending a turn in a [Plains] tile>",
-	    "Gain [1] [Science] <upon ending a turn in a [Grassland] tile>",
 	
 	    "Instantly provides [1] [Stick] <upon ending a turn in a [Forest] tile> <after discovering [Gathering]>",
 	    "Instantly provides [1] [Pebble] <upon ending a turn in a [Hill] tile> <after discovering [Gathering]>",
