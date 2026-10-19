@@ -214,6 +214,26 @@
             "Every major Civilization gains a spy once a civilization enters this era"
         ]
     },
+     {
+        "name": "Ancient era",
+        "researchAgreementCost": 350,
+        "startingSettlerCount": 3,
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 5,
+        "startingMilitaryUnit": "Hunter",
+        "startingGold": 200,
+        "startingCulture": 500,
+        "settlerPopulation": 3,
+        "baseUnitBuyCost": 600,
+        "embarkDefense": 13,
+        "startPercent": 65,
+        "citySound": "cityModern",
+        "iconRGB": [33, 150, 243],
+        "uniques": ["May not generate great prophet equivalents naturally",
+            "Starting in this era disables religion",
+            "Every major Civilization gains a spy once a civilization enters this era"
+        ]
+    },
     {
         "name": "Medieval era",
         "researchAgreementCost": 350,
