@@ -2,7 +2,7 @@
 
 	{
 		"name": "Heal Instantly",
-		"uniques": ["[This Unit] heals by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Nomad"],
         "row": 0,
         "column": 0
@@ -49,7 +49,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "Withdraws before melee <with [75]% chance">],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "Withdraws before melee <with [75]% chance>"],
 		"unitTypes": ["Nomad"],
         "column": 9,
         "row": 3
