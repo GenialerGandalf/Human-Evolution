@@ -36,7 +36,7 @@
     {
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["[This Unit] upgrades for free including special upgrades"],
+        "uniques": ["This Unit upgrades for free including special upgrades"],
 	"excludedDifficulties": ["Prince"]
     },
     {
@@ -52,14 +52,14 @@
     {
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>"],
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>"],
 		"color": "#CDDDF4",
 	"excludedDifficulties": ["Prince"]
     },
     {
         "name": "an ancient prophecy",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
+        "uniques": ["Olny available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
             "Only available <after founding a Pantheon>"],
 		"color": "#CDDDF4",
 	"excludedDifficulties": ["Prince"]
