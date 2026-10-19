@@ -395,7 +395,7 @@
 			{
 				"name": "Oil Lamp",
 				"row": 8,
-				"prerequisites": ["Mode 3 Stone Tools", "Shellfish", "Fire"],
+				"prerequisites": ["Shellfish", "Fire"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -406,8 +406,8 @@
 			},
 			{
 				"name": "Eyed Needle",
-				"row": 13,
-				"prerequisites": ["Band Societies", "Meat Preservation", "Mode 3 Stone Tools"],
+				"row": 12,
+				"prerequisites": ["Meat Preservation", "Mode 3 Stone Tools"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -490,7 +490,7 @@
 			},
 			{
 				"name": "Textiles",
-				"row": 13,
+				"row": 12,
 				"prerequisites": ["Rope", "Eyed Needle"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
@@ -559,7 +559,7 @@
 			},
 			{
 				"name": "Clothing",
-				"row": 13,
+				"row": 12,
 				"prerequisites": ["Textiles"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
