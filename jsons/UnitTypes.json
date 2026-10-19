@@ -49,7 +49,7 @@
 		    "Instantly consumes [3] [Food] <upon entering a [Hill] tile>",
 		
 		    "Set [Food] to [30] <when above [30] [Food]> <upon turn end>",
-			"Set [Water] to [5] <when above [5] [Water]> <upon turn end>",
+			"Set [Water] to [5] <when above [5] [Water]> <upon turn end>"
 		]
     },
     {
@@ -71,6 +71,6 @@
 		    "Instantly consumes [3] [Food] <upon entering a [Hill] tile>",
 		
 		    "Set [Food] to [30] <when above [30] [Food]> <upon turn end>",
-			"Set [Water] to [5] <when above [5] [Water]> <upon turn end>",]
+			"Set [Water] to [5] <when above [5] [Water]> <upon turn end>"]
     }
 ]
