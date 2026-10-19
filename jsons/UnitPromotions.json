@@ -49,7 +49,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "Withdraws before melee <with [75]% chance>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "Withdraws before melee combat <with [75]% chance>"],
 		"unitTypes": ["Nomad"],
         "column": 9,
         "row": 3
