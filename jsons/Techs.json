@@ -479,7 +479,7 @@
 			{
 				"name": "Baskets",
 				"row": 3,
-				"prerequisites": ["Rope", "Storage Pits"],
+				"prerequisites": ["Rope", "Storage Pits", "Flint Knives"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
@@ -554,7 +554,7 @@
 			{
 				"name": "Raft",
 				"row": 4,
-				"prerequisites": ["Rope", "Baskets"],
+				"prerequisites": ["Rope"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
