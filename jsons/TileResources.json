@@ -452,7 +452,7 @@
 		"uniques": ["Stockpiled"],
 	},
 	{
-		"name": "Sickle Blade",
+		"name": "Sickle-Blade",
 		"resourceType": "Strategic",
 		"production": 1,
 		"uniques": ["Stockpiled"],
