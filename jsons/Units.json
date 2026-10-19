@@ -166,8 +166,8 @@
 			"Instantly consumes [1] [Mode 3 Tool] <with [Mode 3 Tool]> <after discovering [Mode 4 Stone Tools]> <when above [-1] [Water]>",
 			"Instantly provides [1] [Mode 5 Tool] <with [Mode 4 Tool]> <after discovering [Mode 5 Stone Tools]> <when above [-1] [Water]> <with [14]% chance>",
 			"Instantly consumes [1] [Mode 4 Tool] <with [Mode 4 Tool]> <after discovering [Mode 5 Stone Tools]> <when above [-1] [Water]>",
-			"Instantly provides [1] [Sickle-blade] <with [Mode 5 Tool]> <after discovering [Sickle-blade]> <when above [-1] [Water]> <with [12]% chance>",
-			"Instantly consumes [1] [Mode 5 Tool] <with [Mode 5 Tool]> <after discovering [Sickle-blade]> <when above [-1] [Water]>"
+			"Instantly provides [1] [Sickle-blade] <with [Mode 5 Tool]> <after discovering [Sickle-blades]> <when above [-1] [Water]> <with [12]% chance>",
+			"Instantly consumes [1] [Mode 5 Tool] <with [Mode 5 Tool]> <after discovering [Sickle-blades]> <when above [-1] [Water]>"
 			], // <with [Pebble]>
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
