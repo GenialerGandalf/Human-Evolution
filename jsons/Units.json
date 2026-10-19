@@ -79,7 +79,6 @@
 		"movement": 1,
 		"strength": 1,
 		"cost": 50,
-		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Stonethrower"
 		"uniques" : [
 			"[This Unit] upgrades for free <after discovering [Throwing]> <upon turn start>"
